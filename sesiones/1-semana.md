@@ -12,6 +12,9 @@ enterarse de los contenidos impartidos en la misma.
 2. Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
 2. Entender el concepto de software libre y su aplicación práctica en clase.
 3. Vernos las caras.
+4. Explicar la
+   [práctica 0](http://jj.github.io/IV/documentos/practicas/0.Repositorio). Fecha
+   de entrega: **jueves 29 de septiembre**, 12:30 de la mañana. 
 
 ## Contenidos
 * Antes de ninguna otra cosa, organizaremos los grupos de prácticas. 
