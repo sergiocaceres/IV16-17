@@ -27,7 +27,12 @@ enterarse de los contenidos impartidos en la misma.
 * Alta en [GitHub](http://github.com), grupo de Telegram (enviar nick a @jjmerelo) y [lista de correo](https://groups.google.com/d/forum/iv-ugr-2016) (imprescindible para ver las notas).
 * Introducción al uso de **Markdown**.
 * Introducción al software libre y la [oficina de software libre de la UGR](http://osl.ugr.es).
-* Sistema operativo de referencia en la asignatura: Linux (Ubuntu, Debian, ArchLinux, Fedora, OpenSUSE, Linux Mint).
+* Sistema operativo de referencia en la asignatura: Linux (Ubuntu,
+  Debian, ArchLinux, Fedora, OpenSUSE, Linux Mint).
+* Entender el sistema de entrega de objetivos, ejercicios de
+  autoevaluación y prácticas/proyecto: *fork* de este repositorio (que
+  habrá que actualizar periódicamente) y *pull request* al mismo para
+  "entrega" de objetivos y demás. 
 
 ## Material de la asignatura
 
