@@ -32,14 +32,13 @@ enterarse de los contenidos impartidos en la misma.
 * Entender el sistema de entrega de objetivos, ejercicios de
   autoevaluación y prácticas/proyecto: *fork* de este repositorio (que
   habrá que actualizar periódicamente) y *pull request* al mismo para
-  "entrega" de objetivos y demás.
-* El jueves día 29 de septiembre, al final de la clase, habrá un
-  seminario de media hora sobre "Pilas, microservicios, arquitecturas
-  con letras griegas y otras dos o tres cosas que quizás no hayas
-  aprendido hasta ahora". Se ruega a todos los alumnos que hagan lo
+  "entrega" de objetivos y demás. 
+* El jueves día 29 de septiembre, después del final de la clase, a las
+  13:30 y en el aula -1.2, habrá un
+  seminario de media hora sobre ["Pilas, microservicios, arquitecturas con letras griegas y otras dos o tres cosas que quizás no hayas aprendido hasta ahora"](http://www.meetup.com/es-ES/Granada-Geek/events/234060868/). Se ruega a todos los alumnos que hagan lo
   posible por asistir al mismo o recuperar el material una vez
-  impartido. Si coincide con alguna otra clase a la que tenga que
-  asistir la mayoría de los alumnos, se podría trasladar a las 13:30. 
+  impartido. Tratándose de un seminario no es obligatorio, pero su
+  contenido va a resultar muy útil para el resto de la asignatura.
 
 ## Material de la asignatura
 
@@ -49,6 +48,6 @@ recomienda empezar por el primer tema y los ejercicios de
 autoevaluación correspondientes. También la
 [práctica 0](http://jj.github.io/IV/documentos/practicas/0.Repositorio). 
 
-##Siguientes objetivos
+##Siguientes sesiones
 
 [Segunda semana](2-semana.md)
