@@ -32,14 +32,22 @@ enterarse de los contenidos impartidos en la misma.
 * Entender el sistema de entrega de objetivos, ejercicios de
   autoevaluación y prácticas/proyecto: *fork* de este repositorio (que
   habrá que actualizar periódicamente) y *pull request* al mismo para
-  "entrega" de objetivos y demás. 
+  "entrega" de objetivos y demás.
+* El jueves día 29 de septiembre, al final de la clase, habrá un
+  seminario de media hora sobre "Pilas, microservicios, arquitecturas
+  con letras griegas y otras dos o tres cosas que quizás no hayas
+  aprendido hasta ahora". Se ruega a todos los alumnos que hagan lo
+  posible por asistir al mismo o recuperar el material una vez
+  impartido. Si coincide con alguna otra clase a la que tenga que
+  asistir la mayoría de los alumnos, se podría trasladar a las 13:30. 
 
 ## Material de la asignatura
 
 Todo
 [el material de la asignatura está en GitHub](http://jj.github.io/IV). Se
 recomienda empezar por el primer tema y los ejercicios de
-autoevaluación correspondientes.
+autoevaluación correspondientes. También la
+[práctica 0](http://jj.github.io/IV/documentos/practicas/0.Repositorio). 
 
 ##Siguientes objetivos
 
