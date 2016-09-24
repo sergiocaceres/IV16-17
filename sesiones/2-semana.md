@@ -41,12 +41,11 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 ##Material para la clase
 
 * *Teoría*: [Introducción, concepto y soporte físico](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico#introduccin)
-* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **12:30 del 7 de octubre de 2016**. 
+* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **12:30 del 6 de octubre de 2016**. 
 
 ##Material adicional
 
 Podéis añadir trucos o enlaces a material en esta zona.
-
 
 
 ##Siguiente semana
