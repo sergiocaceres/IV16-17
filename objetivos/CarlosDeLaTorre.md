@@ -5,12 +5,12 @@ Carlos de la Torre
 
 ## Objetivos Sesión 1 (22/09/16):
 
-[X]  Entender la metodología docente, de evaluación y de interacción de la asignatura.
-[ ]  Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
-[ ]  Entender el concepto de software libre y su aplicación práctica en clase.
-[ ]  Vernos las caras.
+- [x]  Entender la metodología docente, de evaluación y de interacción de la asignatura.
+- [ ]  Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
+- [ ]  Entender el concepto de software libre y su aplicación práctica en clase.
+- [ ]  Vernos las caras.
 
 ### Otros Objetivos
 
-[ ]  Cambiar los [horarios de practicas](http://jj.github.io/IV/) en el material de la asignatura.
-[ ]  Crear una rama para gh-pages y así tener mejor documentación para el repositorio.
+- [ ]  Cambiar los [horarios de practicas](http://jj.github.io/IV/) en el material de la asignatura.
+- [ ]  Crear una rama para gh-pages y así tener mejor documentación para el repositorio.
