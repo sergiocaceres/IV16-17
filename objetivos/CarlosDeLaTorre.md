@@ -5,10 +5,20 @@ Carlos de la Torre
 
 ## Objetivos Sesión 1 (22/09/16):
 
+<<<<<<< HEAD
 - [x]  Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [ ]  Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
 - [ ]  Entender el concepto de software libre y su aplicación práctica en clase.
 - [ ]  Vernos las caras.
+=======
+[X]  Entender la metodología docente, de evaluación y de interacción de la asignatura.
+
+[ ]  Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
+
+[ ]  Entender el concepto de software libre y su aplicación práctica en clase.
+
+[ ]  Vernos las caras.
+>>>>>>> d24b41c63a56efcdd5ec712d33d16323359783bb
 
 ### Otros Objetivos
 
