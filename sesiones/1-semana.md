@@ -12,9 +12,10 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 2. Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Vernos las caras.
-4. Comprender lo necesario para entregar la
-   [práctica 0](http://jj.github.io/IV/documentos/practicas/0.Repositorio). Fecha
-   de entrega: **jueves 29 de septiembre**, 12:30 de la mañana (al final de la clase). 
+4. Explicar la
+   [práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
+   de entrega: **jueves 29 de septiembre**, 12:30 de la mañana. 
+
 
 ## Contenidos
 * Antes de ninguna otra cosa, organizaremos los grupos de prácticas. 
@@ -47,7 +48,7 @@ Todo
 [el material de la asignatura está en GitHub](http://jj.github.io/IV). Se
 recomienda empezar por el primer tema y los ejercicios de
 autoevaluación correspondientes. También la
-[práctica 0](http://jj.github.io/IV/documentos/practicas/0.Repositorio). 
+[práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). 
 
 ##Siguientes sesiones
 
