@@ -1,3 +1,7 @@
+###Semana del 22 al 28 de septiembre de 2017
+
+##Objetivos a cubrir en la sesión
+ 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura. 
 
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente. 
