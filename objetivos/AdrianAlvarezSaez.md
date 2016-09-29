@@ -6,3 +6,5 @@
 - [x] Vernos las caras.
 - [x] Comprender lo necesario para entregar la práctica 0. Fecha de entrega: jueves 29 de septiembre, 12:30 de la mañana (al final de la clase).
 
+##Objetivos adicionales 
+- [x] Crear página del repositorio en GitHub Pages
