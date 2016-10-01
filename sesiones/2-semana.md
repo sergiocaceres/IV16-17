@@ -24,12 +24,10 @@ recurso.
 ##Otros objetivos
 
 * Al final de la clase, haber entregado el hito 0. 
-* Tener a punto la instalación de git usando pares clave pública/privada para interaccionar con GitHub (**no** https).
-* Tener configurados los dos repositorios (`origin`, el propio, `upstream`, el del resto de la clase). 
 * Tener a punto una instalación Linux para llevar a cabo las
-actividades de la asignatura. Si necesitas ayuda para instalarlo, los
+actividades de la asignatura. Si necesitas ayuda para instalarlo,
+todos los
 jueves a partir de las 12:30 está la OSL en la sala de reuniones.
-* Haber comenzado a usar los métodos de entrega de ejercicios propuestos para la asignatura [usando GitHub](../ejercicios/README.md). 
 * Manejar de forma básica la línea de órdenes de Linux.
 * Aprender a instalar software libre en Linux.
 * Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
