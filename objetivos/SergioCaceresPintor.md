@@ -27,7 +27,7 @@
 
 ####Otros objetivos
 
--	[x]Al final de la clase, haber entregado el hito 0.
+- [x]	Al final de la clase, haber entregado el hito 0.
 
 - [x]	Tener a punto la instalación de git usando pares clave pública/privada para interaccionar con GitHub (no https).
 
@@ -45,4 +45,4 @@
 
 - [x]	Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 
-- []	Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
+- [ ]	Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
