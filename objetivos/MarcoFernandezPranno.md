@@ -11,3 +11,5 @@
 - [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 
 - [x]   Comprender lo necesario para entregar la práctica 0.
+
+#### Práctica 1 (*Jueves 6 de Octubre 2016*)
