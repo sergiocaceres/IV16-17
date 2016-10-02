@@ -10,8 +10,8 @@
 - [x] 	Vernos las caras.
 
 - [x]	Explicar la práctica 0. Fecha de entrega: jueves 29 de septiembre, 12:30 de la mañana.
- 
- 
+
+
  ###Sesión 2 (Semana del 29 al 5 de Octubre)
 
 - [x]	Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
