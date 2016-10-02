@@ -24,3 +24,21 @@ Por lo que en ningún caso excedemos el máximo amortizable anual ni el período
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Microsoft Azure Dv2 V2  | Intel Xeon E5-2673 v3 (Haswell) | 7 GB | 100 GB SSD | 0,236 | 1,7 € | 17 € |  
 | Amazon EC2 m4.large | Intel Xeon E5-2676 v3 (Haswell) | 8 GB | 100 GB SSD (+8'9€/mes)| 0.107 | 0,77 € (+8'9€) | 16,6 € (con disco) | |
+
+#### 3.1 ¿Qué tipo de virtualización usarías en cada caso? Comentar en el foro.
+* **Virtualización para entornos de desarrollo**: Programar utilizando distintas versiones de Ruby con [RVM](https://rvm.io/rvm/basics).
+*  **Virtualización de aplicaciones**: Para tener un entorno aislado de los demás por temas de seguridad. (i.e Distribución Linux [Qubes](https://www.qubes-os.org/) o [Windows Edge Virtual instances](http://arstechnica.com/information-technology/2016/09/windows-10-will-soon-run-edge-in-a-virtual-machine-to-keep-you-safe/))
+* **Virtualización plena**: Uso de un sistema operativo para un determinado fin sin alterar la máquina huésped. ([Kali Linux](http://es.docs.kali.org/general-use-es/kali-linux-en-virtual-box))
+*  **Virtualización a nivel de sistema operativo:** Para el despliege de distintos servicios web sobre una misma máquina, compartiendo características de una misma instancia del kernel de Linux entre varios SO. ([Docker](https://es.wikipedia.org/wiki/Docker_(software)))
+
+*Comentario añadido: [link](https://github.com/JJ/IV16-17/issues/1)*
+
+#### 3.2 Crear un programa simple en cualquier lenguaje interpretado para Linux, empaquetarlo con CDE y probarlo en diferentes distribuciones.
+
+La función del programa es encontrar la clave de cifrado Vigenére de un texto en castellano, probando las posibles combinaciones para claves de longitud máxima 8.  
+El código del programa puede encontrarse en el siguiente [repositorio](https://github.com/MarFerPra/vigenere-cracker).
+
+* Ejecución en Ubuntu 16.04:
+
+* Ejecución en Debian 8.6 Stable:
+  
