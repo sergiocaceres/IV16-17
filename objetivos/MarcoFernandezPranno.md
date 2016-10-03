@@ -54,3 +54,13 @@ Por otro lado, los costes de mantenimiento son nulos en lo que se refiere al har
 
 
 - [x] Usar el sistema de control de fuentes git para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+- [x] Creación del repositorio del [proyecto](https://github.com/MarFerPra/teletorrent).
+
+- [x] Definir una licencia en el proyecto. (MIT)
+
+- [x] Explicar en la documentación el proceso que se llevará a cabo con el proyecto de cara a los objectivos de la asignatura.
+
+- [x] Definir y documentar inicialmente el objetivo y herramientas utilizadas en el proyecto.
+
+- [x] Inscripción del [proyecto](https://github.com/MarFerPra/teletorrent) en el certamen de proyectos de la UGR.
