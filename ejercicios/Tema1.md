@@ -4,6 +4,7 @@ Ejercicios del Tema 1
 <a name="ejercicio1"></a>1- Ejercicio.
 *  Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años.
     -  Respuesta:
+    El siguiente servidor de Intel [Intel-Server-System-R2308WTTYSR](http://ark.intel.com/es-es/products/88287/Intel-Server-System-R2308WTTYSR) tiene un precio de [1.986,35](https://xikixi.com/catalog/product/view/id/1520246/) y tendrá un coste de amortización a cuatro años de [xxxxx](https://www.ponerenlacedecalculo.com) y un coste de amortización de siete años de [xxxxx](https://www.ponerenlacedecalculo.com)
 
 <a name="ejercicio2"></a>2- Ejercicio
 * Usando las tablas de precios de servicios de alojamiento en Internet y de proveedores de servicios en la nube, Comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
