@@ -38,7 +38,33 @@ Por lo que en ningún caso excedemos el máximo amortizable anual ni el período
 La función del programa es encontrar la clave de cifrado Vigenére de un texto en castellano, probando las posibles combinaciones para claves de longitud máxima 8.  
 El código del programa puede encontrarse en el siguiente [repositorio](https://github.com/MarFerPra/vigenere-cracker).
 
-* Ejecución en Ubuntu 16.04:
+* Empaquetado en Ubuntu 16.04:  
+![Empaquetado](http://i1268.photobucket.com/albums/jj576/marcofp0/enpaquetado-cde_zpshiwg3ffz.jpg)
 
-* Ejecución en Debian 8.6 Stable:
-  
+* Ejecución en Ubuntu 16.04:  
+![Ejecución en Ubuntu 16.04](http://i1268.photobucket.com/albums/jj576/marcofp0/en-ubuntu_zpsxuibsgpu.jpg)
+
+* Ejecución en Debian 8.6 Stable:  
+![Ejecución en Debian 8.6](http://i1268.photobucket.com/albums/jj576/marcofp0/en-debian_zpstxeoirfe.jpg)
+
+#### 4. Comprobar si el procesador o procesadores instalados tienen estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden?
+
+La ejecución de la orden ``` egrep '^flags.*(vmx|svm)' /proc/cpuinfo ``` produce como salida:  
+
+> flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts
+acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts
+rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm pcid sse4_1 sse4_2 popcnt tsc_deadline_timer aes xsave avx lahf_lm > epb tpr_shadow vnmi flexpriority ept vpid xsaveopt dtherm ida arat pln pts
+
+(Repetido 8 veces)  
+Lo cual significa que si existen lineas donde figuran los flags buscados. El modelo del procesador podemos averiguarlo ejecutando ``` cat /proc/cpuinfo ```.
+En la linea correspondiente vemos la siguiente salida:  
+> model name	: Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz
+
+#### 5.1 Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden ``` kvm-ok ```.
+Le ejecución produce de salida:  
+> INFO: /dev/kvm exists  
+> KVM acceleration can be used
+
+##### 5.2 Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
+El hipervisor instalado es virtualbox:  
+![Virtualbox](http://i1268.photobucket.com/albums/jj576/marcofp0/virtualbox_zpseoqvquol.png)
