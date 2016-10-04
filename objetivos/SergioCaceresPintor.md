@@ -24,7 +24,7 @@
 
 - [x]	Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
 
-- [x]	Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+- [x]	Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura. 
 
 ####Otros objetivos
 
