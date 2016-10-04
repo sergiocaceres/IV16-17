@@ -1,4 +1,4 @@
-#Semana del 22 al 28 de septiembre de 2017
+#Semana del 22 al 28 de septiembre de 2016
 
 Agradeceré que contestes la
 [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLScrXjpKIEqnrJ356npEWbdARvy00HnNT3EB3EUwU8cfExvqtw/viewform). Se
@@ -29,7 +29,12 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 * Introducción al uso de **Markdown**.
 * Introducción al software libre y la [oficina de software libre de la UGR](http://osl.ugr.es).
 * Sistema operativo de referencia en la asignatura: Linux (Ubuntu,
-  Debian, ArchLinux, Fedora, OpenSUSE, Linux Mint). Aunque la práctica y la mayoría de ejercicios se pueden hacer en otros sistemas operativos, los profesores no están cualificados para resolver dudas específicas de los mismos y en particular no se garantiza que ninguna de las herramientas de la asignatura funcionen. Algunas sabemos positivamente que no funcionan o lo hacen de otra forma.
+  Debian, ArchLinux, Fedora, OpenSUSE, Linux Mint). Aunque la práctica
+  y la mayoría de ejercicios se pueden hacer en otros sistemas
+  operativos, los profesores no están cualificados para resolver dudas
+  específicas de los mismos y en particular no se garantiza que
+  ninguna de las herramientas de la asignatura funcionen. Algunas
+  sabemos positivamente que no funcionan o lo hacen de otra forma. 
 * Entender el sistema de entrega de objetivos, ejercicios de
   autoevaluación y prácticas/proyecto: *fork* de este repositorio (que
   habrá que actualizar periódicamente) y *pull request* al mismo para
