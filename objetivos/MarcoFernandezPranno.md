@@ -14,6 +14,7 @@
 
 #### Práctica 1 (*Jueves 6 de Octubre 2016*)
 
+##### [Repositorio de ejercicios](https://github.com/MarFerPra/EjerciciosIV/blob/master/Tema1.md)   
 - [x] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
 
   Enlaces consultados:
