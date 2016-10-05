@@ -14,6 +14,8 @@
 
 ###Sesión 2 (Semana del 29 al 5 de Octubre)
 
+[Ejercicios del tema 1](https://github.com/sergiocaceres/IV-Ejercicios/blob/master/Ejercicios/EjerciciosTema1.md)
+
 - [x]	Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 
 - [x]	Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
