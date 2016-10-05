@@ -1,4 +1,4 @@
-## Objetivos Hito0
+## Objetivos Hito0 Rosa Ortega Romero
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 
