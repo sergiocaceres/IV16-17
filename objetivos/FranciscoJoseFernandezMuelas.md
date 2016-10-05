@@ -32,7 +32,7 @@
 
 #####Otros objetivos
 - [x] Al final de la clase, haber entregado el hito 0.
-- [] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. Si necesitas ayuda para instalarlo, todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
+- [ ] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. Si necesitas ayuda para instalarlo, todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
