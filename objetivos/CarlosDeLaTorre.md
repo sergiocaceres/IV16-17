@@ -33,5 +33,5 @@ Carlos de la Torre
 - [x] Manejar de forma básica la línea de órdenes de Linux. *closes #17*
 - [x] Aprender a instalar software libre en Linux. *closes #18*
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres. *closes #19*
-- [ ] Haber usado git para hacer *check-in* en clase. *closes #20*
+- [x] Haber usado git para hacer *check-in* en clase. *closes #20*
 - [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero. *closes #21*
