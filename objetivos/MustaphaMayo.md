@@ -45,9 +45,9 @@
 
 - [x]	Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 
-- []	Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
+- [ ]	Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 
-- []	Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
+- [ ]	Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 
 ####Objetivos Tema 1
 
@@ -57,7 +57,7 @@
 
 - [x]	Comprender la diferencia entre infraestructura virtual y real.
 
-- []	Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [ ]	Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
 #####Objetivos especificos
 
