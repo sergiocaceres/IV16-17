@@ -36,6 +36,7 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 
 - [x] Aprender a instalar software libre en Linux.
+
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 
 - [ ] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
