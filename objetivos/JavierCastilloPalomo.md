@@ -30,9 +30,9 @@
 
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 
-- [x]Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
+- [x] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
 
-- [] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+- [ ] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 
 
