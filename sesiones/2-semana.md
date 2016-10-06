@@ -1,4 +1,4 @@
-#Segunda semana
+#Segunda semana del 29 de septiembre al 5 de octubre de 2016
 
 ##Importante
 
@@ -43,7 +43,7 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ##Material adicional
 
-Podéis añadir trucos o enlaces a material en esta zona.
+Podéis añadir trucos o enlaces a material adicional en esta zona.
 
 
 ##Siguiente semana
