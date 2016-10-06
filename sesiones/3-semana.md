@@ -11,6 +11,7 @@ del proyecto.
 
 1. Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
 una aplicación.
+
 2. Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
 
@@ -25,6 +26,8 @@ una aplicación.
 * Haber entregado el
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
   al final de la semana.
+
+* Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
 
 * Entender el formato JSON y su importancia para ficheros de
   configuración e intercambio genérico de datos. 
@@ -52,4 +55,4 @@ una aplicación.
 
 ##Siguiente semana
 
-[Cuarta semana, a partir del 14 de octubre](4-semana.md)
+[Cuarta semana, a partir del 13 de octubre](4-semana.md)
