@@ -25,6 +25,7 @@
 
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
+
 ###Otros objetivos
 
 - [x] Al final de la clase, haber entregado el hito 0.
