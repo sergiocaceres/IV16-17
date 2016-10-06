@@ -35,3 +35,20 @@ Carlos de la Torre
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres. *closes #19*
 - [x] Haber usado git para hacer *check-in* en clase. *closes #20*
 - [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero. *closes #21*
+
+## Objetivos Sesión 3 (05/10/16):
+
+- [ ] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación. *closes #24*
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual. *closes #25*
+- [ ] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad. *closes #26*
+- [ ] Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales. *closes #27*
+
+### Otros Objetivos
+
+- [ ] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana. *closes #28*
+- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos. *closes #29*
+- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma. *closes #30*
+- [ ] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo. *closes #31*
+- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto. *closes #33*
+- [ ] Comprender el papel de las *build tools* o herramientas de automatización. *closes #34*
+- [ ] Haber usado git para hacer *check-in* en clase. *closes #32*
