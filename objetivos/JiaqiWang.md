@@ -20,7 +20,7 @@
 
 - [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
 
-- [x]Comprender los niveles de virtualización y sus denominaciones genéricas.
+- [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 
 - [x] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
 
@@ -40,7 +40,7 @@
 
 - [x] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 
-- [] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
+- [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 
 ### Objetivos del Tema 1
 - [x] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
@@ -49,7 +49,7 @@
 
 - [x] Comprender la diferencia entre infraestructura virtual y real.
 
-- [] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
 - [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot)
 
@@ -57,4 +57,4 @@
 
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 
-- [] Usar el sistema de control de fuentes git para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+- [ ] Usar el sistema de control de fuentes git para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
