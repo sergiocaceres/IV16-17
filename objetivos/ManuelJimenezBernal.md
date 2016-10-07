@@ -1,6 +1,6 @@
 ## Objetivos
 
-#### Hito 0 / P0  (*Jueves 29 Sept 2016*)
+#### Semana 1  (*Jueves 29 Sept 2016*)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 
@@ -12,7 +12,7 @@
 
 - [x]   Comprender lo necesario para entregar la práctica 0.
 
-#### Hito 1  (*Jueves 06 Oct 2016*)
+#### Semana 2  (*Jueves 06 Oct 2016*)
 
 - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 - [x] Comprender la diferencia entre infraestructura virtual y real. 
