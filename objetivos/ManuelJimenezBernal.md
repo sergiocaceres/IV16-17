@@ -26,3 +26,5 @@
 - [x] Conocer el concepto de software libre y su importancia dentro de la computación nube. 
 - [x] Entender el concepto de *DevOps* y las técnicas y tecnologías que cubre.
 - [x] Usar el sistema de control de fuentes `git`para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+#### Semana 3  (*Jueves 13 Oct 2016*)
