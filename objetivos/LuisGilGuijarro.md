@@ -56,7 +56,7 @@ una aplicación.
 
 ##Otros objetivos
 
-- [] Haber entregado el
+- [ ] Haber entregado el
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
   al final de la semana.
 
