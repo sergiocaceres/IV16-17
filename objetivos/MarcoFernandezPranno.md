@@ -65,3 +65,10 @@ Por otro lado, los costes de mantenimiento son nulos en lo que se refiere al har
 - [x] Definir y documentar inicialmente el objetivo y herramientas utilizadas en el proyecto.
 
 - [x] Inscripción del [proyecto](https://github.com/MarFerPra/teletorrent) en el certamen de proyectos de la UGR.
+
+#### Práctica 2 (*Jueves 13 de Octubre 2016*)
+
+- [x] Añadir integración continua al proyecto
+- [x] Aprender cómo describir la versión del lenguaje de programación que se usa y sus dependencias.
+- [x] Elección de un sistema y sitio para integración continua.
+- [x] Configuración de la integración continua.
