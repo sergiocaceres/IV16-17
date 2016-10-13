@@ -27,17 +27,31 @@ Otros Objetivos
 
 ### Semana del 6 al 12 de octubre
 
-- [] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
-- [] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
-- [] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 
 Otros Objetivos
 
-- [] Haber entregado el primer hito del proyecto al final de la semana.
-- [] Entender el segundo hito del proyecto
-- [] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
-- [] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
-- [] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
-- [] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-- [] Comprender el papel de las build tools o herramientas de automatización.
+- [x] Haber entregado el primer hito del proyecto al final de la semana.
+- [x] Entender el segundo hito del proyecto
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+
+
+### Semanada del 13 de octubre en adelante
+
+- [] Terminar la configuración de los sistemas de integración continua
+- [] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+Otros Objetivos
+
+- [] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [] Comprender los mecanismos de despliegue automático.
+- [] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
