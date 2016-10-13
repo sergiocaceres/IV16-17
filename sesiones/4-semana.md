@@ -17,7 +17,7 @@ Todos podéis participar en los [premios a proyectos libres de la UGR](http://os
 * Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 * Comprender los mecanismos de despliegue automático.
 * Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
-
+* Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
 ##Material para la clase
 
