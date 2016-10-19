@@ -47,13 +47,13 @@
 
 ## Cuarta semana, comienza el 13 de octubre
 
-- [x] Terminar la configuración de los sistemas de integración continua
+- [ ] Terminar la configuración de los sistemas de integración continua
 - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
 ### Otros objetivos
 
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [x] Comprender los mecanismos de despliegue automático.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
