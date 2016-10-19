@@ -42,3 +42,11 @@
 - [x] Conocer el concepto de software libre y su importancia dentro de la computación nube.
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 - [x]  Usar el sistema de control de fuentes git para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+## Semanas del 6 al 27 de Octubre ###
+- [] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+#### Objetivos específicos ####
+- [] Entender el concepto de DevOps.
+- [] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [] Aprender a usar integración continua en cualquier aplicación.
