@@ -28,7 +28,7 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 - [x] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
-- [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
+- [x] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 
 ##### Objetivos del tema introductorio
 ###### De la asignatura

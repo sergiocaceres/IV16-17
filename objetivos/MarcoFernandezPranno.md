@@ -65,3 +65,16 @@ Por otro lado, los costes de mantenimiento son nulos en lo que se refiere al har
 - [x] Definir y documentar inicialmente el objetivo y herramientas utilizadas en el proyecto.
 
 - [x] Inscripción del [proyecto](https://github.com/MarFerPra/teletorrent) en el certamen de proyectos de la UGR.
+
+#### Práctica 2 (*Jueves 13 de Octubre 2016*)
+
+##### [Repositorio de ejercicios](https://github.com/MarFerPra/EjerciciosIV/blob/master/Tema2.md)
+
+- [x] Añadir integración continua al proyecto
+- [x] Aprender cómo describir la versión del lenguaje de programación que se usa y sus dependencias.
+- [x] Elección de un sistema y sitio para integración continua.
+- [x] Configuración de la integración continua.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Aprender a usar integración continua en cualquier aplicación.
