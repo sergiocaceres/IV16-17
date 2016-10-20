@@ -62,12 +62,28 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 
 ### Cuarta semana, comienza el 13 de octubre
 #### Objetivos de la semana
-- [ ] Terminar la configuración de los sistemas de integración continua
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
 #### Otros objetivos
-- [ ] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
 - [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [ ] Comprender los mecanismos de despliegue automático.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
-- [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+
+### Quinta semana, comienza el 20 de octubre
+#### Objetivos de la semana
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [ ] Resolver los problemas que surjan en los primeros despliegues.
+
+#### Otros objetivos
+- [ ] Darse de alta y probar diferentes servicios PaaS.
+- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
