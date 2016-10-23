@@ -92,8 +92,40 @@
 
 - [x]	Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
 
-- [ ]	Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
+- [x]	Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
 
 - [ ]	Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 
-- [ ]	Comprender el papel de las build tools o herramientas de automatización.
+- [x]	Comprender el papel de las build tools o herramientas de automatización.
+
+
+####Objetivos temario de teoría
+
+- [x]	Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+#####Objetivos especificos
+
+- [x]	Entender el concepto de DevOps.
+
+- [x]	Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+
+- [ ]	Aprender a usar integración continua en cualquier aplicación.
+
+
+###Sesión 4 (Semana del 13 al 19 de Octubre)
+
+- [ ]	Terminar la configuración de los sistemas de integración continua
+
+- [x]	Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+####Otros objetivos
+
+- [x]	Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+
+- [ ]	Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+
+- [x]	Comprender los mecanismos de despliegue automático.
+
+- [ ]	Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+- [ ]	Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
