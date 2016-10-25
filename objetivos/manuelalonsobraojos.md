@@ -103,5 +103,5 @@ una aplicación.
 - [x]  Instalar las herramientas necesarias para crear y aplicar tests en
   un proyecto.
 
-- [x]  Comprender el papel de las *build tools* o herramientas de
+- [x]  Comprender el papel de las build tools o herramientas de
   automatización.
