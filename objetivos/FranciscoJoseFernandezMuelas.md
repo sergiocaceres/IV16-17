@@ -57,5 +57,20 @@
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
 - [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-- [ ] Comprender el papel de las build tools o herramientas de automatización.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+
+### Semana a partir del 13 de octubre.
+
+##### Objetivos de la Semana
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+##### Otros Objetivos
+
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [ ] Comprender los mecanismos de despliegue automático.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.

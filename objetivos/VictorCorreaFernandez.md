@@ -43,7 +43,7 @@ Otros Objetivos
 - [x] Comprender el papel de las build tools o herramientas de automatización.
 
 
-### Semanada del 13 de octubre en adelante
+### Semanada del 13 al 19 de octubre
 
 - [] Terminar la configuración de los sistemas de integración continua
 - [] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
@@ -55,3 +55,20 @@ Otros Objetivos
 - [] Comprender los mecanismos de despliegue automático.
 - [] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+
+### Semana del 19 al 26 de octubre
+
+- [] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [] Resolver los problemas que surjan en los primeros despliegues.
+
+Otros Objetivos
+
+- [] Darse de alta y probar diferentes servicios PaaS.
+- [] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
