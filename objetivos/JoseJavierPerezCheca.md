@@ -59,6 +59,16 @@
     #####Otros objetivos
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
 - [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
-- [ ] Comprender los mecanismos de despliegue automático.
+- [x] Comprender los mecanismos de despliegue automático.
 - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+### Tema 2. Desarrollo basado en pruebas
+#####[Ejercicios: Desarrollo basado en pruebas](https://github.com/josejapch/ejerciciosIV/blob/master/tema2/Tema2.md)
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+    #####Objetivos específicos:
+
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Aprender a usar integración continua en cualquier aplicación.
