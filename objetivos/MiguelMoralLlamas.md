@@ -66,7 +66,7 @@ Semana a partir del 22 de septiembre de 2016
 
 ###Sesión 3 (Semana del 6 al 12 de Octubre)
 
-[Ejercicios del tema 2](https://github.com/sergiocaceres/IV-Ejercicios/blob/master/Ejercicios/EjerciciosTema2.md)
+[Ejercicios del tema 2](https://github.com/Miguelmoral/IVejercicios/blob/master/tema2.md)
 
 - [x]	Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
 
