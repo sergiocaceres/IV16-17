@@ -20,6 +20,7 @@ Todavía está abierto el plazo de inscripción para los
 2. Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
 3. Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 4. Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+5. Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 ##Material para la clase
 
