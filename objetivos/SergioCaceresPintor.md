@@ -73,6 +73,7 @@
 
 ###Sesión 3 (Semana del 6 al 12 de Octubre)
 
+[Ejercicios del tema 2](https://github.com/sergiocaceres/IV-Ejercicios/blob/master/Ejercicios/EjerciciosTema2.md)
 
 - [x]	Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
 
@@ -94,7 +95,7 @@
 
 - [x]	Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
 
-- [ ]	Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x]	Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 
 - [x]	Comprender el papel de las build tools o herramientas de automatización.
 
@@ -114,7 +115,7 @@
 
 ###Sesión 4 (Semana del 13 al 19 de Octubre)
 
-- [ ]	Terminar la configuración de los sistemas de integración continua
+- [x]	Terminar la configuración de los sistemas de integración continua
 
 - [x]	Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
@@ -126,6 +127,6 @@
 
 - [x]	Comprender los mecanismos de despliegue automático.
 
-- [ ]	Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x]	Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 - [ ]	Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
