@@ -67,6 +67,8 @@
 
 #Tercera semana, del 6 al 12 de octubre de 2016
 
+[Ejercicios](https://github.com/manuelalonsobraojos/IV-Ejercicios/blob/master/Ejercicios-tema2/EjerciciosTema2.md)
+
 **Objetivos de la semana**
 
 - [x]  Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
