@@ -33,7 +33,7 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 ##### Objetivos del tema introductorio
 ###### De la asignatura
 - [x] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
-- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica. [Ejercicio 2 - Tema 2](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema2.md)
 - [x] Comprender la diferencia entre infraestructura virtual y real.
 - [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
@@ -47,23 +47,23 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 ### Tercera semana, del 6 al 12 de octubre de 2016
 #### Objetivos de la semana
 - [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
-- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.[Ejercicios 6 y 7 - Tema 2](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema2.md)
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.[Ejercicio 2 - Tema 2](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema2.md)
 - [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 
 #### Otros objetivos
 - [x] Haber entregado el primer hito del proyecto al final de la semana.
 - [x] Entender el segundo hito del proyecto
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
-- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.[Ejercicio 2 - Tema 2](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema2.md)
 - [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
-- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-- [x] Comprender el papel de las build tools o herramientas de automatización.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.[Ejercicis 6 y 7 - Tema 2](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema2.md)
+- [x] Comprender el papel de las build tools o herramientas de automatización.[Ejercicio 5 - Tema 2](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema2.md)
 
 ### Cuarta semana, comienza el 13 de octubre
 #### Objetivos de la semana
 - [x] Terminar la configuración de los sistemas de integración continua
-- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
 #### Otros objetivos
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
@@ -76,11 +76,11 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 ### Quinta semana, comienza el 20 de octubre
 #### Objetivos de la semana
 - [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
-- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
 - [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 - [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 - [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [ ] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
 
 #### Otros objetivos
 - [ ] Darse de alta y probar diferentes servicios PaaS.
