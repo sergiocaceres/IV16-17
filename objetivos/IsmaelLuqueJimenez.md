@@ -54,45 +54,45 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ### Objetivos de la semana
 
-- [ ] 1. Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
-- [ ] 2. Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] 3. Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
-- [ ] 4. Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.
+- [x] 1. Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] 2. Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] 3. Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] 4. Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.
 
 ### Otros objetivos
 
-- [ ] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana.
-- [ ] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
+- [x] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana.
+- [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
 - [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
-- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
-- [ ] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-- [ ] Comprender el papel de las *build tools* o herramientas de automatización.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las *build tools* o herramientas de automatización.
 
 
 ## 2) Desarrollo basado en pruebas
 
 ### Objetivos de la asignatura
 
-- [ ] 1. Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] 1. Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 
 ### Objetivos específicos
 
-- [ ] 1. Entender el concepto de DevOps.
-- [ ] 2. Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuáles son estos.
-- [ ] 3. Aprender a usar integración continua en cualquier aplicación.
+- [x] 1. Entender el concepto de DevOps.
+- [x] 2. Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuáles son estos.
+- [x] 3. Aprender a usar integración continua en cualquier aplicación.
 
 
 ## Cuarta semana (del 13 al 19 de octubre de 2016)
 
 ### Objetivos de la semana
 
-- [ ] 1. Terminar la configuración de los sistemas de integración continua
+- [x] 1. Terminar la configuración de los sistemas de integración continua
 - [ ] 2. Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
 ### Otros objetivos
 
-- [ ] Entender los errores en la entrega del [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) y corregirlos si es pertinente.
+- [x] Entender los errores en la entrega del [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) y corregirlos si es pertinente.
 - [ ] Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [ ] Comprender los mecanismos de despliegue automático.
 - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
