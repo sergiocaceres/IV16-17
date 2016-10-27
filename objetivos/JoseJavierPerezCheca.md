@@ -58,7 +58,7 @@
 
     #####Otros objetivos
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [x] Comprender los mecanismos de despliegue automático.
 - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
@@ -72,3 +72,33 @@
 - [x] Entender el concepto de DevOps.
 - [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [x] Aprender a usar integración continua en cualquier aplicación.
+
+### Sesión 5 (20 de octubre 2016)
+
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [ ] Resolver los problemas que surjan en los primeros despliegues.
+
+    #####Objetivos específicos:
+
+- [ ] Darse de alta y probar diferentes servicios PaaS.
+- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+### Sesión 6 (27 de octubre 2016)
+
+- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+    #####Objetivos específicos:
+    
+- [ ] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
