@@ -1,4 +1,4 @@
-## Objetivos a cubrir:
+﻿## Objetivos a cubrir:
 
 ### Sesión 1 (22 de septiembre 2016)
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -14,7 +14,8 @@
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
-#####Otros objetivos:
+
+    #####Otros objetivos:
 - [x] Al final de la clase, haber entregado el hito 0.
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. Si necesitas ayuda para instalarlo, todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
@@ -29,8 +30,45 @@
 - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y poner los en práctica.
 - [x] Comprender la diferencia entre infraestructura virtual y real.
 - [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
-#####Objetivos específicos:
+ 
+    #####Objetivos específicos:
 - [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot)
 - [x] Conocer el concepto de software libre y su importancia dentro de la computación nube.
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 - [x] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+### Sesión 3 (6 de octubre 2016)
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+    #####Otros objetivos
+- [x] Haber entregado el primer hito del proyecto al final de la semana.
+- [x] Entender el segundo hito del proyecto
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+
+### Sesión 4 (13 de octubre 2016)
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+    #####Otros objetivos
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+### Tema 2. Desarrollo basado en pruebas
+#####[Ejercicios: Desarrollo basado en pruebas](https://github.com/josejapch/ejerciciosIV/blob/master/tema2/Tema2.md)
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+    #####Objetivos específicos:
+
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Aprender a usar integración continua en cualquier aplicación.
