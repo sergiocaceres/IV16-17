@@ -28,7 +28,7 @@ Continuamos con el tema dedicado al
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS)
 y continuamos con el
 [tercer hito del proyecto](https://github.com/JJ/IV/blob/master/documentos/practicas/3.PaaS.md). La
-fecha de entrega es el **16 de noviembre**. 
+fecha de entrega es el **10 de noviembre**. 
 
 ##Siguiente semana
 
