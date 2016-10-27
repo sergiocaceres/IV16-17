@@ -1,6 +1,6 @@
 #Sexta semana, comienza el 27 de octubre
 
-Para terminar el hito 2 y emprender el camino al siguiente hito, sando PaaS.
+Para terminar el hito 2 y emprender el camino al siguiente hito, usando PaaS. Una vez entregado el hito, se agradece que se [conteste a esta encuesta](https://goo.gl/forms/2mjXdenvRGTpdVaK2) sobre el mismo y el desarrollo de la clase. 
 
 ##Importante
 
