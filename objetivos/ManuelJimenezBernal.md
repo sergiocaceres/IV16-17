@@ -44,7 +44,7 @@
 - [x]	Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [x]	Aprender a usar integración continua en cualquier aplicación.
 
-###Sesión 4 (*Jueves 20 Oct 2016*)
+### Semana 4 (*Jueves 20 Oct 2016*)
 
 - [x]	Terminar la configuración de los sistemas de integración continua
 - [x]	Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
