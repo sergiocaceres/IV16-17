@@ -28,13 +28,79 @@
 - [x] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 - [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 
-### Objetivos de teoria
+## Objetivos de teoría. TEMA 1.
+
+[Ejercicios del tema 1](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema1.md)
 
 - [x] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
 - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 - [x] Comprender la diferencia entre infraestructura virtual y real.
-- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 - [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot)
 - [x] Conocer el concepto de software libre y su importancia dentro de la computación nube.
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 - [x] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+##Tercera semana, del 6 al 12 de octubre de 2016
+
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+###Otros objetivos
+
+- [x] Haber entregado el primer hito del proyecto al final de la semana.
+- [x] Entender el segundo hito del proyecto
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+
+##Cuarta semana, comienza el 13 de octubre
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+###Otros objetivos
+
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+## Objetivos de teoría. TEMA 2.
+
+[Ejercicios del tema 2](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema2.md)
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+Aprender a usar integración continua en cualquier aplicación.
+
+##Quinta semana, comienza el 20 de octubre
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+
+###Otros objetivos
+
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [ ] nstalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## Objetivos de teoría. TEMA 3.
+
+[Ejercicios del tema 3]()
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [ ] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [ ] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
