@@ -1,6 +1,6 @@
 #Sexta semana, comienza el 27 de octubre
 
-Para terminar el hito 2 y emprender el camino al siguiente hito, sando PaaS.
+Para terminar el hito 2 y emprender el camino al siguiente hito, usando PaaS. Una vez entregado el hito, se agradece que se [conteste a esta encuesta](https://goo.gl/forms/2mjXdenvRGTpdVaK2) sobre el mismo y el desarrollo de la clase. 
 
 ##Importante
 
@@ -28,7 +28,7 @@ Continuamos con el tema dedicado al
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS)
 y continuamos con el
 [tercer hito del proyecto](https://github.com/JJ/IV/blob/master/documentos/practicas/3.PaaS.md). La
-fecha de entrega es el **16 de noviembre**. 
+fecha de entrega es el **10 de noviembre**. 
 
 ##Siguiente semana
 
