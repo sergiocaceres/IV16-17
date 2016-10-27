@@ -65,3 +65,45 @@
 - [x] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 
 
+#Tercera semana, del 6 al 12 de octubre de 2016
+
+[Ejercicios](https://github.com/manuelalonsobraojos/IV-Ejercicios/blob/master/Ejercicios-tema2/EjerciciosTema2.md)
+
+**Objetivos de la semana**
+
+- [x]  Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
+una aplicación.
+
+- [x]  Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+
+- [x]  Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+  programación y entender su utilidad.
+
+- [x]  Entender los ficheros de *requisitos* y su utilidad en las
+  infraestructuras virtuales.
+
+**Otros objetivos**
+
+- [x]  Haber entregado el
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  al final de la semana.
+
+- [x]  Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
+
+- [x]  Entender el formato JSON y su importancia para ficheros de
+  configuración e intercambio genérico de datos.
+
+- [x]  Comenzar el aprendizaje de un nuevo lenguaje de programación o
+  entender cómo node.js hace las cosas, o simplemente mirar el
+  cinturón de herramientas del lenguaje que se use habitualmente de
+  otra forma.
+
+- [x]  Comprender la utilidad de la virtualización y definición de
+  herramientas de desarrollo.
+
+- [x]  Instalar las herramientas necesarias para crear y aplicar tests en
+  un proyecto.
+
+- [x]  Comprender el papel de las build tools o herramientas de
+  automatización.

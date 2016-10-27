@@ -27,7 +27,7 @@ una aplicación.
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
   al final de la semana.
 
-* Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
+* Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 
 * Entender el formato JSON y su importancia para ficheros de
   configuración e intercambio genérico de datos. 
