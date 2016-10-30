@@ -1,6 +1,9 @@
 #Sexta semana, comienza el 27 de octubre
 
-Básicamente una clase de sincronización, para ponerse al día en los ejercicios e hitos del proyecto.
+Para terminar el hito 2 y emprender el camino al siguiente hito,
+usando PaaS. Una vez entregado el hito, se agradece que se
+[conteste a esta encuesta](https://goo.gl/forms/2mjXdenvRGTpdVaK2)
+sobre el mismo y el desarrollo de la clase.  
 
 ##Importante
 
@@ -19,7 +22,10 @@ Todavía está abierto el plazo de inscripción para los
 1. Trabajar con los *toolbelts* de los diferentes PaaS.
 2. Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
 3. Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-4. Experimentar con el despliegue simultáneo a varios PaaS.
+4. Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+5. Descargarse y conocer el CLI de Travis para usarlo para
+   configurarlo y cosas por el estilo. 
+
 
 ##Material para la clase
 

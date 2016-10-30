@@ -38,44 +38,87 @@
 - [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 
 
-#Tercera semana, del 6 al 12 de octubre de 2016
+# Tema 1. Introducción a la infraestructura virtual: concepto y soporte físico.
 
-##Objetivos de la semana
+[**Enalce ejercicios tema 1.**](https://github.com/LuisGi93/en-proceso/blob/master/IV/ejerciciosT1.md)
 
-- [ ] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
+- [x] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y poner los en práctica.
+- [x] Comprender la diferencia entre infraestructura virtual y real.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+ 
+    #####Objetivos específicos:
+- [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot)
+- [x] Conocer el concepto de software libre y su importancia dentro de la computación nube.
+- [~] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
+- [x] Usar el sistema de control de fuentes git para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+##Tercera semana, del 6 al 12 de octubre de 2016
+
+###Objetivos de la semana
+
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
 una aplicación.
 
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
 
-- [ ] Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de
   programación y entender su utilidad.
 
-- [ ] Entender los ficheros de *requisitos* y su utilidad en las
+- [x] Entender los ficheros de *requisitos* y su utilidad en las
   infraestructuras virtuales. 
 
 ##Otros objetivos
 
-- [ ] Haber entregado el
+- [x] Haber entregado el
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
   al final de la semana.
 
-- [ ] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
+- [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
 
-- [ ] Entender el formato JSON y su importancia para ficheros de
+- [x] Entender el formato JSON y su importancia para ficheros de
   configuración e intercambio genérico de datos. 
 
-- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación o
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o
   entender cómo node.js hace las cosas, o simplemente mirar el
   cinturón de herramientas del lenguaje que se use habitualmente de
   otra forma.
 
-- [ ] Comprender la utilidad de la virtualización y definición de
+- [x] Comprender la utilidad de la virtualización y definición de
   herramientas de desarrollo.
   
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en
   un proyecto.
 
-- [ ] Comprender el papel de las *build tools* o herramientas de
+- [x] Comprender el papel de las *build tools* o herramientas de
   automatización. 
 
+# Tema 2. Desarrollo basado en pruebas.
+
+[**Enlace ejercicios tema 2.**](https://github.com/LuisGi93/en-proceso/blob/master/IV/ejerciciosT2b.md)
+
+
+###Objetivos de la asignatura..
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+###Objetivos específicos
+
+- [x]  Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.</li>
+- [x]  Aprender a usar integración continua en cualquier aplicación.
+
+
+
+## Sesión 4 (13 de octubre 2016)
+###Objetivos de la semana
+- [x] Terminar la configuración de los sistemas de integración continua
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+###Otros objetivos
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
