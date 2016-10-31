@@ -26,7 +26,7 @@ Terminamos con
 y comenzamos con el
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS). 
 
-Continuamos con el [segundo hito del proyecto](https://github.com/JJ/IV/blob/master/documentos/practicas/2.CI.md). 
+Continuamos con el [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI). 
 
 ##Siguiente semana
 
