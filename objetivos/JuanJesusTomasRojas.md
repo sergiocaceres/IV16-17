@@ -81,10 +81,23 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 - [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 - [x] Resolver los problemas que surjan en los primeros despliegues.
-- [x] Check-in en clase
 
 #### Otros objetivos
 - [ ] Darse de alta y probar diferentes servicios PaaS.
 - [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 - [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 - [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Check-in en clase
+
+### Sexta semana, comienza el 27 de octubre
+#### Objetivos de la semana
+- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+#### Otros objetivos
+- [ ] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [ ] Check-in en clase
