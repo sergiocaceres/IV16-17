@@ -81,6 +81,7 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 - [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 - [x] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Check-in en clase
 
 #### Otros objetivos
 - [ ] Darse de alta y probar diferentes servicios PaaS.
