@@ -45,30 +45,53 @@ Otros Objetivos
 
 ### Semanada del 13 al 19 de octubre
 
-- [] Terminar la configuración de los sistemas de integración continua
-- [] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
 Otros Objetivos
 
-- [] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-- [] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
-- [] Comprender los mecanismos de despliegue automático.
-- [] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
-- [] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
 
-### Semana del 19 al 26 de octubre
+### Semana del 20 al 26 de octubre
 
-- [] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
-- [] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
-- [] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
-- [] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
-- [] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
 
 Otros Objetivos
 
-- [] Darse de alta y probar diferentes servicios PaaS.
-- [] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
-- [] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
-- [] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+
+### Semana del 27 de octubre al 2 de noviembre
+
+- [] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+Otros objetivos
+
+- [] Trabajar con los toolbelts de los diferentes PaaS.
+- [] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+
+### Semana del 3 al 9 de noviembre
+
+- [] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+Otros objetivos
+
+- [] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
