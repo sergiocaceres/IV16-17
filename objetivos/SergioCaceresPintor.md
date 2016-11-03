@@ -130,3 +130,61 @@
 - [x]	Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 - [ ]	Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+
+###Sesion 5(Semana del 20 al 26 de Octubre)
+
+- [x]	Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+
+- [x]	Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+
+- [x]	Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+
+- [x]	Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+
+- [x]	Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+
+- [ ]	Resolver los problemas que surjan en los primeros despliegues.
+
+####Otros objetivos
+
+- [x]	Darse de alta y probar diferentes servicios PaaS.
+
+- [ ]	Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+
+- [ ]	Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+
+- [ ]	Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+####Objetivos temario de teoría
+
+- [x]	Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+- [x]	Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+#####Objetivos especificos
+
+- [x]	Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+
+- [x]	Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+- [x]	Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+
+###Sesion 6(Semana del 27 al 2 de Noviembre)
+
+- [ ]	Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+
+- [ ]	Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+####Otros objetivos
+
+- [ ]	Trabajar con los toolbelts de los diferentes PaaS.
+
+- [ ]	Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+
+- [ ]	Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+
+- [ ]	Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+
+- [ ]	Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
