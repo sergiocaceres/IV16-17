@@ -80,16 +80,31 @@
 
 ##### Objetivos de la Semana
 
-- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
-- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
-- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
-- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
-- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [ ] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales. [Ejercicio 1 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura. [Ejercicio 1 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones. [Ejercicios 1-8 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo. [Ejercicios 1-8 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad. [Ejercicios 1-8 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Resolver los problemas que surjan en los primeros despliegues. [Ejercicios 1-8 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
 
 ##### Otros Objetivos
 
-- [x] Darse de alta y probar diferentes servicios PaaS.
-- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Darse de alta y probar diferentes servicios PaaS.[Ejercicio 1 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad. [Ejercicio 5 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push. [Ejercicios 6 y 7 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
 - [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+### Semana a partir del 27 de octubre.
+
+##### Objetivos de la Semana
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes. [Ejercicio 1 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios. [Ejercicios 6,5 y 7 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
+
+##### Otros objetivos
+
+- [ ] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
