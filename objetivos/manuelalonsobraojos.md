@@ -107,3 +107,29 @@ una aplicación.
 
 - [x]  Comprender el papel de las build tools o herramientas de
   automatización.
+
+#Quinta semana, comienza el 20 de octubre
+
+[Ejercicios tema 3](https://github.com/manuelalonsobraojos/IV-Ejercicios/blob/master/Ejercicios-tema3/EjerciciosTema3.md)
+
+**Objetivos de la semana**
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura
+   virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación 
+  se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+
+**Otros objetivos**
+
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+- [] Aprender buenas prácticas en entornos con integración y despliegue
+   continuo: uso de ramas en el código, uso de *tags* para
+   releases...
+
+
