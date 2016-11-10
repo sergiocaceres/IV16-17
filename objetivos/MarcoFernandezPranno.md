@@ -78,3 +78,27 @@ Por otro lado, los costes de mantenimiento son nulos en lo que se refiere al har
 - [x] Entender el concepto de DevOps.
 - [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [x] Aprender a usar integración continua en cualquier aplicación.
+
+#### Práctica 3 (*Jueves 10 de Noviembre 2016*)
+
+##### [Repositorio de ejercicios](https://github.com/MarFerPra/EjerciciosIV/blob/master/Tema3.md)
+
+* [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+* [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+* [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+
+* [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+* [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+* [x] Hacer un despliegue en la nube, usando una Plataforma como Servicio, del proyecto que se esté desarrollando.
+
+* [x] Especificar claramente en la documentación de proyecto los pasos seguidos para el despliegue y configuración de la plataforma en el servicio PaaS.
+
+* [x] Que la configuración del proyecto permita despliegue directo desde el repositorio. La configuración de este despliegue se tendrá que documentar en la rama de documentación que se esté usando.
+
+* [x]  Poner en práctica las principales técnicas usadas hoy en día para despliegue de aplicaciones web u otro tipo de aplicaciones, basadas principalmente en interfaces REST.
+
+* [x] Tener implementada una funcionalidad mínima en el proyecto.
