@@ -46,17 +46,13 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ##Objetivos de la semana
 
-- [x]  Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
-una aplicación.
+- [x]  Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
 
-- [x]  Comprender cómo las pruebas de software encajan dentro del concepto
-   de infraestructura virtual.
+- [x]  Comprender cómo las pruebas de software encajan dentro del concepto    de infraestructura virtual.
 
-- [x]  Usar los entornos virtuales de desarrollo en diferentes lenguajes de
-  programación y entender su utilidad.
+- [x]  Usar los entornos virtuales de desarrollo en diferentes lenguajes de   programación y entender su utilidad.
 
-- [x]  Entender los ficheros de *requisitos* y su utilidad en las
-  infraestructuras virtuales.
+- [x]  Entender los ficheros de *requisitos* y su utilidad en las   infraestructuras virtuales.
 
 ##Otros objetivos
 
@@ -66,22 +62,15 @@ una aplicación.
 
 - [x]  Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/practicas/2.CI)
 
-- [x]  Entender el formato JSON y su importancia para ficheros de
-  configuración e intercambio genérico de datos.
+- [x]  Entender el formato JSON y su importancia para ficheros de   configuración e intercambio genérico de datos.
 
-- [x]  Comenzar el aprendizaje de un nuevo lenguaje de programación o
-  entender cómo node.js hace las cosas, o simplemente mirar el
-  cinturón de herramientas del lenguaje que se use habitualmente de
-  otra forma.
+- [x]  Comenzar el aprendizaje de un nuevo lenguaje de programación o   entender cómo node.js hace las cosas, o simplemente mirar el  cinturón de herramientas del lenguaje que se use habitualmente de  otra forma.
 
-- [x]  Comprender la utilidad de la virtualización y definición de
-  herramientas de desarrollo.
+- [x]  Comprender la utilidad de la virtualización y definición de   herramientas de desarrollo.
 
-- [x]  Instalar las herramientas necesarias para crear y aplicar tests en
-  un proyecto.
+- [x]  Instalar las herramientas necesarias para crear y aplicar tests en  un proyecto.
 
-- [x]  Comprender el papel de las *build tools* o herramientas de
-  automatización.
+- [x]  Comprender el papel de las *build tools* o herramientas de  automatización.
 
 
 #Cuarta semana, comienza el 13 de octubre
@@ -94,9 +83,7 @@ una aplicación.
 
 ##Otros objetivos
 
-- [x] Entender los errores en la entrega del
-  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
-  y corregirlos si es pertinente.
+- [x] Entender los errores en la entrega del [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) y corregirlos si es pertinente.
 - [x] Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [x] Comprender los mecanismos de despliegue automático.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
@@ -107,7 +94,7 @@ una aplicación.
 #Quinta semana, comienza el 20 de octubre
 
 ##Objetivos de la semana
-
+- [x] Ejericios objetivos [Tema 3](https://github.com/antoniovj1/Ejercicios_IV_UGR/blob/master/Tema3.md)
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
 - [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
 - [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
@@ -127,7 +114,7 @@ una aplicación.
 
 
 ##Objetivos de la semana
-
+- [x] Ejericios objetivos [Tema 3](https://github.com/antoniovj1/Ejercicios_IV_UGR/blob/master/Tema3.md)
 - [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
