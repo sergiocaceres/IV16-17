@@ -103,13 +103,49 @@
 
 
    - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-   - [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+   - [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
    - [x] Comprender los mecanismos de despliegue automático.
    - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
    - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
+## Objetivos Quinta semana, comienza el 20 de octubre
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## objetivos ejercicios PAAS
+
+[enlace a ejercicios del tema 3](https://github.com/Sergiopopoulos/EjerciciosIV/blob/master/ejerciciostema3.md)
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube
+
+## Sexta semana, comienza el 27 de octubre
 
 
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
+## Séptima semana, comienza el 3 de noviembre
+
+
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 
 
