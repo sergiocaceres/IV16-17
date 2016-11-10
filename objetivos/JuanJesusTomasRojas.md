@@ -101,3 +101,10 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 - [ ] Check-in en clase
+
+### Séptima semana, comienza el 3 de Noviembre
+#### Objetivos de la semana
+- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+#### Otros objetivos
+- [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+- [x] Check-in en clase
