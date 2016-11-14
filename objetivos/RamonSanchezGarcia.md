@@ -1,7 +1,7 @@
 
 # Objetivos: #
 
-## Semana del 22 al 29 de Septiembre 2016 ##
+## Sesión 1 (Semana del 22 al 29 de Septiembre 2016)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente.
@@ -9,9 +9,9 @@
 - [x] Vernos las caras.
 - [x] Comprender lo necesario para entregar la práctica 0. Fecha de entrega: jueves 29 de septiembre, 12:30 de la mañana (al final de la clase).***
 
-***Entregada tarde dado que me acabo de matricular en la asignatura.
+***Entregada tarde dado que me acababa de matricular en la asignatura.
 
-##### Objetivos de la semana del 29 de septiembre
+## Sesión 2 (Semana del 29 de Septiembre al 6 de Octubre 2016)
 	
 - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [x] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
@@ -92,7 +92,7 @@
 
 - [x]	Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 
-- [ ]	Aprender a usar integración continua en cualquier aplicación.
+- [x]	Aprender a usar integración continua en cualquier aplicación.
 
 
 ## Sesión 4 (Semana del 13 al 19 de Octubre)
@@ -101,7 +101,7 @@
 
 - [x]	Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
-####Otros objetivos
+#####Otros objetivos
 
 - [x]	Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
 
@@ -111,4 +111,49 @@
 
 - [ ]	Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
-- [ ]	Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+- [ ]	Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.  
+  
+## Sesion 5 (Semana del 20 al 27 de octubre de 2016):
+
+#####Objetivos de la semana
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura
+   virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.   
+
+#####Otros objetivos
+
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
+
+## Sesión 6 (Semana del 27 al 3 de noviembre de 2016):
+
+#####Objetivos de la semana
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+#####Otros objetivos
+
+- [x] Trabajar con los *toolbelts* de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Sesión 7 (Semana del 3 al 10 de noviembre de 2016):
+
+##### Objetivos de la semana
+
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+##### Otros objetivos
+
+- [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.  
+- **Los ejercicios del tema 3 está [aquí](https://github.com/Chentaco/EjerciciosIV/blob/master/tema3.md)**  
