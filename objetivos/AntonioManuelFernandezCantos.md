@@ -80,3 +80,34 @@
 Comprender los mecanismos de despliegue automático.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+### Quinta semana comienza 20 de octubre ###
+
+[EJERCICIOS TEMA 3](https://github.com/Antkk10/EjerciciosIV/blob/master/EjerciciosHito3.md)
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x]  Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x]  Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+
+#### Otros objetivos. ####
+
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+### Sexta semana, comienza 27 de Octubre ###
+
+#### Objetivos de la semana ####
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x]  Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+#### Otros objetivos ####
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [x]  Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ]  Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
