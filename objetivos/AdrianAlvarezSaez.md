@@ -48,3 +48,76 @@
 - [x] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 - [x] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero. ([Issue](https://github.com/elsudano/Universidad/issues/1), [Pull Request](https://github.com/elsudano/Universidad/pull/2))
 - [ ] Inscripción del proyecto en el certamen de proyectos de la UGR.
+
+##Tema2
+[Ejercicios del tema 2](https://github.com/adalsa91/EjercicioIV/blob/master/Tema2.md)
+- [x]  Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+###Objetivos específicos
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Aprender a usar integración continua en cualquier aplicación.
+
+##Tercera sesión (6 de Octubre)
+###Objetivos de la semana
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+###Otros objetivos
+- [x] Haber entregado el primer hito del proyecto al final de la semana.
+- [x] Entender el segundo hito del proyecto
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+
+##Cuarta sesión (13 de Octubre)
+###Objetivos de la semana
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+###Otros objetivos
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+##Quinta sesión (20 de octubre)
+###Objetivos de la semana
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+###Otros objetivos
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+##Sexta sesión (27 de Octubre)
+###Objetivos de la semana
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+###Otros objetivos
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+##Séptima sesión (3 de Noviembre)
+###Objetivos de la semana
+- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+###Otros objetivos
+- [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+##Tema 3
+- [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+###Objetivos especificos
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [ ] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
