@@ -68,7 +68,7 @@
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
 - [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [x] Comprender los mecanismos de despliegue automático.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 ## Objetivos de teoría. TEMA 2.
 
@@ -91,16 +91,53 @@ Aprender a usar integración continua en cualquier aplicación.
 ###Otros objetivos
 
 - [x] Darse de alta y probar diferentes servicios PaaS.
-- [ ] nstalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] nstalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
 
-## Objetivos de teoría. TEMA 3.
+##Sexta semana, comienza el 27 de octubre
 
-[Ejercicios del tema 3]()
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+###Otros objetivos
+
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+##Objetivos de teoría. TEMA 3.
+
+[Ejercicios del tema 3](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema3.md)
 
 - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 - [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
-- [ ] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
-- [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
-- [ ] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+##Séptima semana, comienza el 3 de Noviembre
+
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+###Otros objetivos
+
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+##Objetivos de teoría. TEMA 4.
+
+[Ejercicios del tema 4](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema3.md)
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+- [ ] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+- [ ] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [ ] Documentar y mantener una plataforma virtual.
+- [ ] Optimizar aplicaciones sobre plataformas virtuales.
+- [ ] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+- [ ] Realizar tareas de administración en infraestructura virtual.
+- [ ] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [ ] Crear infraestructuras virtuales completas.
+- [ ] Comprender los pasos necesarios para la configuración automática de las mismas.
