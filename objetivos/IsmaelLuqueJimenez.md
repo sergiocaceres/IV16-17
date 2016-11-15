@@ -163,5 +163,5 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 #### Objetivos específicos
 
 - [x] 1. Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
-- [ ] 2. Aplicar el concepto de *DevOps* a este tipo específico de plataforma.
+- [x] 2. Aplicar el concepto de *DevOps* a este tipo específico de plataforma.
 - [x] 3. Aplicar el sistema de control de fuentes `git` para despliegue de aplicaciones en la nube.
