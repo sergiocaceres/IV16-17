@@ -4,6 +4,8 @@
 necesitas ayuda. En este directorio estarán los ficheros de clase
 ordenados cronológicamente de forma inversa.
 
+* [Semana a partir del 17 de noviembre de 2016](9-semana.md)
+* [Semana a partir del 10 de noviembre de 2016](8-semana.md)
 * [Semana a partir del 3 de noviembre de 2016](7-semana.md).
 * [Semana a partir del 27 de octubre de 2016](6-semana.md).
 * [Semana a partir del 20 de octubre de 2016](5-semana.md).
