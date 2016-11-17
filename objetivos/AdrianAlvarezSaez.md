@@ -103,21 +103,37 @@
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 ###Otros objetivos
 - [x] Trabajar con los toolbelts de los diferentes PaaS.
-- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
-- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 ##Séptima sesión (3 de Noviembre)
 ###Objetivos de la semana
-- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
 ###Otros objetivos
-- [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 
 ##Tema 3
-- [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 ###Objetivos especificos
 - [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
-- [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
-- [ ] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+##Octava semana (10 de Noviembre)
+###Objetivos de la semana
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+###Otros objetivos
+- [x] Instalar Docker y empezar a trabajar con él.
+
+##Novena semana (17 de Noviembre)
+###Objetivos de la semana
+- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+###Otros objetivos
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
