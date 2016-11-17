@@ -18,7 +18,7 @@
 Continuamos con el tema dedicado a los
 [contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y comenzamos con el [4º hito del proyecto](http://jj.github.io/IV/documentos/practicas/4.Docker).
 
-La entrega de la práctica será el *7 de diciembre*. 
+La entrega de la práctica será el *1 de diciembre*. 
 
 ##Siguiente semana
 
