@@ -1,7 +1,7 @@
 # OBJETIVOS (Ismael Luque Jiménez)
 
 
-## POR SEMANAS:
+## DE LAS SESIONES:
 
 
 ### Primera semana (del 22 al 28 de septiembre de 2016)
@@ -9,7 +9,7 @@
 - [x] 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] 2. Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente.
 - [x] 3. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
-- [ ] 4. Vernos las caras.
+- [x] 4. Vernos las caras.
 - [x] 5. Explicar la **práctica 0** (Fecha de entrega: jueves 29 de septiembre, 12:30 de la mañana).
 
 
@@ -81,7 +81,7 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] 3. Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 - [x] 4. Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 - [x] 5. Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [ ] 6. Resolver los problemas que surjan en los primeros despliegues.
+- [x] 6. Resolver los problemas que surjan en los primeros despliegues.
 
 ## Otros objetivos
 
@@ -95,44 +95,60 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 #### Objetivos de la semana
 
-- [ ] 1. Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
-- [ ] 2. Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] 1. Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] 2. Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
 #### Otros objetivos
 
-- [ ] 1. Trabajar con los *toolbelts* de los diferentes PaaS.
+- [x] 1. Trabajar con los *toolbelts* de los diferentes PaaS.
 - [ ] 2. Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
 - [ ] 3. Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [ ] 4. Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [ ] 5. Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [x] 5. Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 
 ### Séptima semana (del 3 al 9 de noviembre de 2016)
 
 #### Objetivos de la semana
 
-- [ ] 1. Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+- [x] 1. Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
 
 #### Otros objetivos
 
-- [ ] 1. Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+- [x] 1. Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+
+### Octava semana (del 10 al 16 de noviembre de 2016)
+
+#### Objetivos de la semana
+
+- [x] 1. Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+
+#### Otros objetivos
+
+- [ ] 1. Instalar Docker y empezar a trabajar con él.
+
+
+### Novena semana (del 17 al 23 de noviembre de 2016)
+
+#### Objetivos de la semana
+
+- [ ] 1. Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] 2. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+#### Otros objetivos
+
+- [ ] 1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [ ] 2. Usar imágenes de Docker publicadas.
 
 
 ---------------------------------------
 
-## POR TEMAS:
+## DE LOS TEMAS:
 
 
 ### 1) Introducción a la infraestructura virtual: concepto y soporte físico
-
-#### Objetivos de la asignatura
-
-- [x] 1. Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
-- [x] 2. Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [x] 3. Comprender la diferencia entre infraestructura virtual y real.
-- [x] 4. Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
-
-#### Objetivos específicos
 
 - [x] 1. Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, *Cloud computing*, *Utility Computing*, *Software as a Service* o Google AppSpot)
 - [x] 2. Conocer el concepto de software libre y su importancia dentro de la computación nube.
@@ -142,12 +158,6 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ### 2) Desarrollo basado en pruebas
 
-#### Objetivos de la asignatura
-
-- [x] 1. Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-
-#### Objetivos específicos
-
 - [x] 1. Entender el concepto de DevOps.
 - [x] 2. Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuáles son estos.
 - [x] 3. Aprender a usar integración continua en cualquier aplicación.
@@ -155,13 +165,13 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ### 3) Creando aplicaciones en la nube: Uso de PaaS
 
-#### Objetivos de la asignatura
-
-- [x] 1. Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [ ] 2. Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
-
-#### Objetivos específicos
-
 - [x] 1. Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
 - [x] 2. Aplicar el concepto de *DevOps* a este tipo específico de plataforma.
 - [x] 3. Aplicar el sistema de control de fuentes `git` para despliegue de aplicaciones en la nube.
+
+
+### 4) Virtualización ligera usando contenedores
+
+- [ ] 1. Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [ ] 2. Crear infraestructuras virtuales completas.
+- [ ] 3. Comprender los pasos necesarios para la configuración automática de las mismas.
