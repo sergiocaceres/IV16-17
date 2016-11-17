@@ -1,4 +1,4 @@
-#Séptima semana, comienza el 10 de Noviembre
+#Octava semana, comienza el 10 de Noviembre
 
 ##Importante
 

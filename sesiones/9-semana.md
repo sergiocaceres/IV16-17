@@ -1,5 +1,7 @@
 #Novena semana, comienza el 17 de Noviembre
 
+Hoy debéis asistir al [taller de tests en Python](https://www.meetup.com/es-ES/Granada-Geek/events/235571052/) 
+
 ##Objetivos de la semana
 
 1. Entender la base del aislamiento de recursos en el sistema operativo.
@@ -16,7 +18,7 @@
 ##Material para la clase
 
 Continuamos con el tema dedicado a los
-[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y comenzamos con el [4º hito del proyecto](http://jj.github.io/IV/documentos/practicas/4.Docker).
+[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y comenzamos con el [4º hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.Docker).
 
 La entrega de la práctica será el *1 de diciembre*. 
 
