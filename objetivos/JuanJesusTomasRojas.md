@@ -108,3 +108,19 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 #### Otros objetivos
 - [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 - [x] Check-in en clase
+
+### Octava semana, comienza el 10 de Noviembre
+#### Objetivos de la semana
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+#### Otros objetivos
+- [ ] Instalar Docker y empezar a trabajar con él.
+
+### Novena semana, comienza el 17 de Noviembre
+#### Objetivos de la semana
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+#### Otros objetivos
+- [ ] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [ ] Instalar docker y trabajar con él.
+- [ ] Usar imágenes de docker publicadas.
+- [x] Check-in en clase
