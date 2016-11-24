@@ -124,3 +124,11 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [ ] Instalar docker y trabajar con él.
 - [ ] Usar imágenes de docker publicadas.
 - [x] Check-in en clase
+
+### Décima semana, comienza el 24 de noviembre
+#### Objetivos de la semana
+- [ ] Usar docker en una aplicación real.
+#### Otros objetivos
+- [ ] Publicar imágenes de docker.
+- [ ] Probar imágenes de docker publicadas.
+- [ ] Trabajar con varias imágenes de docker comectadas.
