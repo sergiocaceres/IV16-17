@@ -19,7 +19,7 @@
 
 #Objetivos a cubrir en la sesión. 
 
-##-Objetivos Tema Introductorio. 
+##-Objetivos Tema Introductorio.
 
 - [x] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia. 
 
@@ -45,3 +45,17 @@
 [Ejercicios Tema 1](https://github.com/maribhez/IV-Ejercicios/blob/master/EjerciciosT1.md "Tema 1")
 
 
+#Tercera semana. 
+
+##Objetivos a cubrir en la sesión. 
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica. 
+
+###Objetivos específicos.
+
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuáles son estos. 
+- [x] Aprender a usar integración continua en cualquier aplicación.
+
+
+[Ejericicos Tema 2] (https://github.com/maribhez/IV-Ejercicios/blob/master/Ejericicios2.md "Tema 2")
