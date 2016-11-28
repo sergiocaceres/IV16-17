@@ -124,3 +124,54 @@
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+### Sesión 8 (10 de noviembre 2016)
+
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado. 
+
+    #####Otros objetivos:
+    
+- [x] Instalar Docker y empezar a trabajar con él.
+
+### Sesion 9 (17 de noviembre de 2016)
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+    #####Otros objetivos:
+    
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+
+- [x] Instalar docker y trabajar con él.
+
+- [x] Usar imágenes de docker publicadas.
+
+### Tema 4. Virtualización ligera usando contenedores
+#####[Ejercicios: Virtualización ligera usando contenedores](https://github.com/josejapch/ejerciciosIV/blob/master/tema4/Tema4.md)
+
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+
+- [ ] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+
+- [x] Documentar y mantener una plataforma virtual.
+
+- [ ] Optimizar aplicaciones sobre plataformas virtuales.
+
+- [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+    #####Objetivos específicos
+
+- [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+
+- [x] Crear infraestructuras virtuales completas.
+
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
