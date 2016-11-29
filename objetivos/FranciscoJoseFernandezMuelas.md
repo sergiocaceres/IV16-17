@@ -1,7 +1,7 @@
 # Objetivos Francisco José Fernández Muelas
 
 ### Semana a partir del 22 de septiembre de 2016
-[link](#Header1)
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente.
 - [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
