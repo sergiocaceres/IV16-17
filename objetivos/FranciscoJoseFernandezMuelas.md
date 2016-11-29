@@ -71,7 +71,7 @@
 ##### Otros Objetivos
 
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [x] Comprender los mecanismos de despliegue automático.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.[Ejercicio 2 - Tema 8](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema2/EjerciciosTema2.md)
 - [x] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
@@ -92,7 +92,7 @@
 - [x] Darse de alta y probar diferentes servicios PaaS.[Ejercicio 1 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
 - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad. [Ejercicio 5 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push. [Ejercicios 6 y 7 - Tema 3](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema3/EjerciciosTema3.md)
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases... [He buscado información sobre 'git flow' para este objetivo]
 
 ### Semana a partir del 27 de octubre.
 
@@ -103,8 +103,52 @@
 
 ##### Otros objetivos
 
-- [ ] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
 - [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
-- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+
+### Semana a partir del 3 de noviembre.
+
+##### Objetivos de la semana
+
+- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+##### Otros objetivos
+
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+### Semana a partir del 10 de noviembre.
+
+##### Objetivos de la semana
+
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+##### Otros objetivos
+- [x] Instalar Docker y empezar a trabajar con él. [Ejercicios 6 al 10 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+
+### Semana a partir del 17 de noviembre.
+
+##### Objetivos de la semana
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo. [Todos los ejercicios - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos. [Ejercicios 1-4 para LXC; 6 al 10 para Docker - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+
+#### Otros objetivos
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él. [Ejercicios 6 al 10 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+- [x] Usar imágenes de docker publicadas. [Ejercicios 7 y 10 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+
+### Semana a partir del 24 de noviembre.
+
+##### Objetivos de la semana
+
+- [x] Usar docker en una aplicación real. [Ejercicios 0 e hito 4 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+
+##### Otros objetivos
+- [ ] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas. [Ejercicios 7 y 10 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
+- [ ] Trabajar con varias imágenes de docker conectadas.
