@@ -132,4 +132,41 @@ una aplicación.
    continuo: uso de ramas en el código, uso de *tags* para
    releases...
 
+#Séptima semana, comienza el 3 de Noviembre
+
+**Objetivos de la semana**
+
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+**Otros objetivos**
+
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+#Octaba semana, comienza el 10 de Noviembre
+
+**Objetivos de la semana**
+
+- [] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+**Otros objetivos**
+
+- [x] Instalar Docker y empezar a trabajar con él.
+
+
+#Novena semana, comienza el 17 de Noviembre
+
+[Ejercicios tema 4](https://github.com/manuelalonsobraojos/IV-Ejercicios/blob/master/Ejercicios-tema4/EjerciciosTema4.md)
+
+**Objetivos de la semana**
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+**Otros objetivos**
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+
+
 
