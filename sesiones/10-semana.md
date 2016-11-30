@@ -2,7 +2,7 @@
 
 ##Objetivos de la semana
 
-1. Usar docker en una aplicación real. 
+1. Usar `docker` en una aplicación real. 
 
 ##Otros objetivos
 
@@ -13,7 +13,9 @@
 ##Material para la clase
 
 Continuamos con el tema dedicado a los
-[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y continuamos con el [4º hito del proyecto](http://jj.github.io/IV/documentos/practicas/4.Docker).
+[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y
+continuamos con el
+[4º hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.Docker). 
 
 La entrega de la práctica será el *1 de diciembre*. 
 
