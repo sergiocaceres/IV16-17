@@ -1,3 +1,4 @@
+###El proyecto de esta asignatura ha sido inscrito en el concurso de proyectos libres de la UGR.
 
 # Objetivos: #
 
@@ -128,16 +129,63 @@ Aprender a usar integración continua en cualquier aplicación.
 
 ##Objetivos de teoría. TEMA 4.
 
-[Ejercicios del tema 4](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema3.md)
+[Ejercicios del tema 4](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema4.md)
 
 - [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
-- [ ] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
-- [ ] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
-- [ ] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+- [x] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Optimizar aplicaciones sobre plataformas virtuales.
+- [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+- [x] Realizar tareas de administración en infraestructura virtual.
+- [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [x] Crear infraestructuras virtuales completas.
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+##Octava semana, comienza el 10 de Noviembre
+
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado. --> No he podido asistir porque tengo escayola.
+
+###Otros objetivos
+
+- [x] Instalar Docker y empezar a trabajar con él.
+
+##Novena semana, comienza el 17 de Noviembre
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+###Otros objetivos
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+
+##Décima semana, comienza el 24 de noviembre
+
+- [x] Usar docker en una aplicación real.
+
+###Otros objetivos
+
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [x] Trabajar con varias imágenes de docker conectadas.
+
+##Undécima semana, comienza el 1 de Diciembre
+
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+##Otros objetivos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+##Objetivos de teoría. TEMA 5.
+
+[Ejercicios del tema 5](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema5.md)
+
+- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 - [ ] Documentar y mantener una plataforma virtual.
-- [ ] Optimizar aplicaciones sobre plataformas virtuales.
-- [ ] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
-- [ ] Realizar tareas de administración en infraestructura virtual.
-- [ ] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
-- [ ] Crear infraestructuras virtuales completas.
-- [ ] Comprender los pasos necesarios para la configuración automática de las mismas.
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
