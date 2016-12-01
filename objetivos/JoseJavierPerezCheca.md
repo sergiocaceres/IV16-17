@@ -175,3 +175,21 @@
 
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
 
+### Sesión 10 (24 de noviembre 2016)
+
+- [x] Usar docker en una aplicación real. 
+
+    #####Objetivos específicos
+    
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [ ] Trabajar con varias imágenes de docker comectadas.
+
+### Sesión 11 (1 de diciembre 2016)
+
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+    #####Objetivos específicos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
