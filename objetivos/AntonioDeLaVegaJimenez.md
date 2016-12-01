@@ -125,7 +125,7 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
 - [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo. 
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo. 
 
 
 
@@ -139,3 +139,29 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 ##Otros objetivos
 
 - [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba. 
+
+#Octava semana, comienza el 10 de Noviembre
+
+##Objetivos de la semana
+
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado. 
+
+
+##Otros objetivos
+
+- [x] Instalar Docker y empezar a trabajar con él. 
+
+#Novena semana, comienza el 17 de Noviembre
+
+
+##Objetivos de la semana
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+
+##Otros objetivos
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas. 
