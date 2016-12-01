@@ -122,14 +122,22 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 #### Otros objetivos
 - [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [x] Instalar docker y trabajar con él. [Ejercicios 6 y siguientes - Tema 4](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema4.md#ejercicio-6)
-- [ ] Usar imágenes de docker publicadas.
+- [x] Usar imágenes de docker publicadas. [Ejercicios 7 y siguientes - Tema 4](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema4.md#ejercicio-6)
 - [x] Check-in en clase
 
 ### Décima semana, comienza el 24 de noviembre
 #### Objetivos de la semana
-- [ ] Usar docker en una aplicación real.
+- [x] Usar docker en una aplicación real.
 #### Otros objetivos
-- [ ] Publicar imágenes de docker.
-- [ ] Probar imágenes de docker publicadas.
-- [ ] Trabajar con varias imágenes de docker comectadas.
+- [x] Publicar imágenes de docker. [Repositorio en Dockerhub](https://hub.docker.com/r/juanjetomas/proyectoiv/)
+- [x] Probar imágenes de docker publicadas. [Ejercicios 7 y siguientes - Tema 4](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema4.md#ejercicio-6)
+- [x] Trabajar con varias imágenes de docker comectadas. [Hito 4](https://github.com/juanjetomas/ProyectoIV/blob/master/README.md#contenedores-para-pruebas-docker)
+- [x] Check-in en clase
+
+### Undécima semana, comienza el 1 de Diciembre
+#### Objetivos de la semana
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+####Otros objetivos
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 - [x] Check-in en clase
