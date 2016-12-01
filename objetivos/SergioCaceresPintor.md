@@ -230,6 +230,8 @@
 
 ###Sesion 8 (Semana del 10 al 16 de Noviembre)
 
+[Ejercicios del tema 4](https://github.com/sergiocaceres/IV-Ejercicios/blob/master/Ejercicios/EjerciciosTema4.md)
+
 - [x]	Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
 
 ####Otros objetivos
