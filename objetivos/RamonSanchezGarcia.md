@@ -157,3 +157,33 @@
 
 - [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.  
 - **Los ejercicios del tema 3 está [aquí](https://github.com/Chentaco/EjerciciosIV/blob/master/tema3.md)**  
+
+## Sesión 8 (Semana del 10 al 17 de noviembre de 2016):
+
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+##### Otros objetivos
+- [x] Instalar Docker y empezar a trabajar con él.
+
+## Sesión 9 (Semana del 17 al 24 de noviembre de 2016):
+
+##### Objetivos de la semana
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+#### Otros objetivos
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+
+## Sesión 10 (Semana del 24 de noviembre al 1 de diciembre de 2016):
+
+- [x] Usar docker en una aplicación real.
+
+##### Otros objetivos
+- [x] Publicar imágenes de docker.
+- [ ] Probar imágenes de docker publicadas.
+- [ ] Trabajar con varias imágenes de docker conectadas.
+- ** Los ejercicios del tema 4 están [aquí](https://github.com/Chentaco/EjerciciosIV/blob/master/tema4.md)**
