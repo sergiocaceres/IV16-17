@@ -1,5 +1,5 @@
 ### Objetivos Antonio de la Vega Jiménez
-### Semana a partir del 22 de septiembre de 2016
+### Semana a partir del 22 de septiembre de 2016 
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 
@@ -86,7 +86,7 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] Entender los errores en la entrega del [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) y corregirlos si es pertinente.
 - [x] Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
 - [x] Comprender los mecanismos de despliegue automático.
-- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
 
@@ -108,7 +108,7 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
- 
+
 
 #Sexta semana, comienza el 27 de octubre
 
@@ -125,7 +125,7 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
 - [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo. 
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 
 
@@ -138,18 +138,18 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ##Otros objetivos
 
-- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba. 
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 
 #Octava semana, comienza el 10 de Noviembre
 
 ##Objetivos de la semana
 
-- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado. 
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
 
 
 ##Otros objetivos
 
-- [x] Instalar Docker y empezar a trabajar con él. 
+- [x] Instalar Docker y empezar a trabajar con él.
 
 #Novena semana, comienza el 17 de Noviembre
 
@@ -164,4 +164,4 @@ jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 - [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [x] Instalar docker y trabajar con él.
-- [x] Usar imágenes de docker publicadas. 
+- [x] Usar imágenes de docker publicadas.
