@@ -186,13 +186,7 @@ una aplicación.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para
    configurarlo y cosas por el estilo. 
    
-   
-   
-   
 #Tema 4.   Virtualización ligera usando contenedores.
-   
-   
-   
    
 ##  Sesión 7 ( 3 de noviembre de 2016)
 
