@@ -188,6 +188,8 @@ una aplicación.
    
 #Tema 4.   Virtualización ligera usando contenedores.
    
+ [**Enalce ejercicios tema 4.**](https://github.com/LuisGi93/en-proceso/blob/master/IV/ejerciciosT4.md)
+  
 ##  Sesión 7 ( 3 de noviembre de 2016)
 
 ### Objetivos de la semana
