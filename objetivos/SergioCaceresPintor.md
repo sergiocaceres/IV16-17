@@ -253,6 +253,7 @@
 
 - [x]	Usar imágenes de docker publicadas.
 
+
 ###Sesion 10 (Semana del 24 al 30 de Noviembre)
 
 - [x] 	Usar docker en una aplicación real.
@@ -264,6 +265,17 @@
 - [x] 	Trabajar con varias imágenes de docker comectadas.
 
 
+###Sesion 10 (Semana del 24 al 30 de Noviembre)
+
+- [x] Usar docker en una aplicación real.
+
+####Otros objetivos
+
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [x] Trabajar con varias imágenes de docker comectadas.
+
+
 ###Sesion 11 (Semana del 1 al 6 de Diciembre)
 
 - [ ] 	Comprender el concepto de hipervisor y los diferentes tipos que hay.
@@ -272,8 +284,21 @@
 
 - [ ] 	Instalar hipervisores libres y trabajar con ellos.
 - [ ] 	Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
+####Otros objetivos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 
 ####Objetivos temario de teoría
 
 - [ ] 	Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+- [ ] Documentar y mantener una plataforma virtual.
+
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
