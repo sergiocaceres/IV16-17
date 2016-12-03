@@ -185,3 +185,66 @@ una aplicación.
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para
    configurarlo y cosas por el estilo. 
+   
+#Tema 4.   Virtualización ligera usando contenedores.
+   
+##  Sesión 7 ( 3 de noviembre de 2016)
+
+### Objetivos de la semana
+
+- [ ]  Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+#### Otros objetivos
+
+- [x]  Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+
+## Sesión 8 (10 noviembre de 2016)
+
+### Objetivos de la semana
+
+- []  Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+
+### Otros objetivos
+
+- [x]  Instalar Docker y empezar a trabajar con él.
+
+
+## Sesión 9  (del 17 al 23 de noviembre de 2016)
+
+### Objetivos de la semana
+
+- [x]  Entender la base del aislamiento de recursos en el sistema operativo.
+- [x]  Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros objetivos
+
+- [x]  Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x]  Usar imágenes de Docker publicadas.
+   
+   
+## Sesión 10 (24 de noviembre 2016)
+
+### Objetivos de la semana:
+
+- [x] Usar docker en una aplicación real. 
+
+### Otros objetivos
+    
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [ ] Trabajar con varias imágenes de docker comectadas.
+
+
+
+#Tema 5.
+
+## Sesión 11 (1 de diciembre 2016)
+
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
