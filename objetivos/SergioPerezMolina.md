@@ -137,10 +137,10 @@
 - [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 - [x] Trabajar con los toolbelts de los diferentes PaaS.
-- [] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
 - [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 ## Séptima semana, comienza el 3 de noviembre
 
@@ -167,7 +167,7 @@
 
 ## Octava semana, comienza el 10 de Noviembre
 
-- [] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
 
 - [x] Instalar Docker y empezar a trabajar con él.
 
@@ -184,6 +184,13 @@
 - [x] Usar docker en una aplicación real.
 - [x] Publicar imágenes de docker.
 - [x] Probar imágenes de docker publicadas.
-- [] Trabajar con varias imágenes de docker conectadas.
+- [ ] Trabajar con varias imágenes de docker conectadas.
+
+
+## Objetivos Semana 11
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 
 
