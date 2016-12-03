@@ -187,3 +187,22 @@
 - [ ] Probar imágenes de docker publicadas.
 - [ ] Trabajar con varias imágenes de docker conectadas.
 - ** Los ejercicios del tema 4 están [aquí](https://github.com/Chentaco/EjerciciosIV/blob/master/tema4.md)**
+
+## Sesión 11 (Semana del 1 al 8 de diciembre de 2016):  
+
+- [x] 	Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+####Otros objetivos
+
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+####Objetivos temario de teoría
+
+- [x] 	Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+- [ ] Documentar y mantener una plataforma virtual.
+
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
