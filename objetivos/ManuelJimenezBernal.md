@@ -53,3 +53,30 @@
 - [x]	Comprender los mecanismos de despliegue automático.
 - [x]	Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ]	Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+#### Hito 3 (*Jueves 10 de Noviembre 2016*)
+
+* [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+* [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+* [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+* [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+* [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+* [x] Hacer un despliegue en la nube, usando una Plataforma como Servicio, del proyecto que se esté desarrollando.
+* [x] Especificar claramente en la documentación de proyecto los pasos seguidos para el despliegue y configuración de la plataforma en el servicio PaaS.
+* [x] Que la configuración del proyecto permita despliegue directo desde el repositorio. La configuración de este despliegue se tendrá que documentar en la rama de documentación que se esté usando.
+* [x]  Poner en práctica las principales técnicas usadas hoy en día para despliegue de aplicaciones web u otro tipo de aplicaciones, basadas principalmente en interfaces REST.
+* [x] Tener implementada una funcionalidad mínima en el proyecto.
+
+#### Hito 4 (*Jueves 31 de Noviembre 2016*)
+
+* [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+* [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+* [x] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+* [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+* [x] Documentar y mantener una plataforma virtual.
+* [x] Optimizar aplicaciones sobre plataformas virtuales.
+* [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+* [x] Realizar tareas de administración en infraestructura virtual.
+* [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+* [x] Crear infraestructuras virtuales completas.
+* [x] Comprender los pasos necesarios para la configuración automática de las mismas.
