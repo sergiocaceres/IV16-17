@@ -134,13 +134,39 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 #### Objetivos de la semana
 
-- [ ] 1. Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] 2. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] 1. Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] 2. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
 #### Otros objetivos
 
-- [ ] 1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
-- [ ] 2. Usar imágenes de Docker publicadas.
+- [x] 1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] 2. Instalar Docker y trabajar con él.
+- [x] 3. Usar imágenes de Docker publicadas.
+
+
+### Décima semana (del 24 al 30 de noviembre de 2016)
+
+#### Objetivos de la semana
+
+- [x] 1. Usar `docker` en una aplicación real.
+
+#### Otros objetivos
+
+- [x] 1. Publicar imágenes de docker.
+- [x] 2. Probar imágenes de docker publicadas.
+- [x] 3. Trabajar con varias imágenes de docker conectadas.
+
+
+### Undécima semana (del 1 al 7 de diciembre de 2016)
+
+#### Objetivos de la semana
+
+- [ ] 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+#### Otros objetivos
+
+- [ ] 1. Instalar hipervisores libres y trabajar con ellos.
+- [ ] 2. Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 
 ---------------------------------------
@@ -172,6 +198,14 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ### 4) Virtualización ligera usando contenedores
 
-- [ ] 1. Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
-- [ ] 2. Crear infraestructuras virtuales completas.
+- [x] 1. Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [x] 2. Crear infraestructuras virtuales completas.
 - [ ] 3. Comprender los pasos necesarios para la configuración automática de las mismas.
+
+
+### 5) Virtualización completa: uso de máquinas virtuales
+
+- [ ] 1.   Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] 2. Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [ ] 3. Documentar y mantener una plataforma virtual.
+- [ ] 4. Realizar tareas de administración de infraestructuras virtuales.
