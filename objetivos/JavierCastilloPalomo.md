@@ -136,3 +136,15 @@
 ## Otros objetivos
 
 - [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+#### Objetivos Sesión 8 (17/11/16):
+
+## Objetivos de la semana
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+## Otros objetivos
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
