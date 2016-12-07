@@ -137,14 +137,49 @@
 
 - [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 
-#### Objetivos Sesión 8 (17/11/16):
+## Objetivos Sesión 8 (del 10 al 17 de noviembre de 2016)):
 
-## Objetivos de la semana
+### Objetivos de la semana
+
+- [x] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+### Otros objetivos
+
+- [x] Instalar Docker y empezar a trabajar con él.
+
+##  Objetivos Sesión 9 (del 17 al  24 de noviembre de 2016)):
+
+### Objetivos de la semana
+
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
-## Otros objetivos
+### Otros objetivos
 
 - [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [x] Instalar docker y trabajar con él.
 - [x] Usar imágenes de docker publicadas.
+
+## Objetivos Sesión 10 (del 24 al 1 de noviembre de 2016))
+
+### Objetivos de la semana
+
+- [x] Usar docker en una aplicación real.
+
+### Otros objetivos
+
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [x] Trabajar con varias imágenes de docker conectadas.
+
+
+## Objetivos Sesión 11 (del 1 al 8 de noviembre de 2016))
+
+### Objetivos de la semana
+
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
