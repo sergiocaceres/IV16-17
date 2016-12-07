@@ -1,5 +1,5 @@
 ## Lista de objetivos de Mustapha Mayo 
-###Sesión 1 (Semana del 22 de Septiembre de 2016)
+##Sesión 1 (Semana del 22 de Septiembre de 2016)
 
 - [x]	Entender la metodología docente, de evaluación y de interacción de la asignatura.
 
@@ -11,7 +11,7 @@
 
 - [x]	Explicar la práctica 0. Fecha de entrega: jueves 29 de septiembre, 12:30 de la mañana.
 
-###Sesión 2 (Semana del 29 al 5 de Octubre)
+##Sesión 2 (Semana del 29 al 5 de Octubre)
 
 [Ejercicios tema 1](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema1.md)
 
@@ -69,7 +69,7 @@
 
 - [x]	Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 
-###Tercera semana, del 6 al 12 de octubre de 2016
+##Tercera semana, del 6 al 12 de octubre de 2016
 
 [Ejercicios Tema 2](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema2.md)
 
@@ -112,7 +112,7 @@ una aplicación.
 - [x]  Comprender el papel de las build tools o herramientas de
   automatización.
 
-###Quinta semana, (20 de octubre de 2016)
+##Quinta semana, (20 de octubre de 2016)
 
 **Objetivos de la semana**
 
@@ -134,7 +134,7 @@ una aplicación.
    continuo: uso de ramas en el código, uso de *tags* para
    releases...
 
-###Sexta semana, (27 de octubre de 2016)
+##Sexta semana, (27 de octubre de 2016)
 
 **Objetivos**
 
@@ -149,7 +149,7 @@ una aplicación.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
-###Séptima semana, (3 de Noviembre de 2016)
+##Séptima semana, (3 de Noviembre de 2016)
 
 **Objetivos**
 
@@ -174,7 +174,7 @@ una aplicación.
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 
-###Octava semana, (10 de Noviembre de 2016)
+##Octava semana, (10 de Noviembre de 2016)
 
 **Objetivos**
 
@@ -184,7 +184,7 @@ una aplicación.
     
 - [x] Instalar Docker y empezar a trabajar con él.
 
-###Novena semana, (17 de Noviembre de 2016)
+##Novena semana, (17 de Noviembre de 2016)
 
 
 **Objetivos**
@@ -198,7 +198,7 @@ una aplicación.
 - [x] Instalar docker y trabajar con él.
 - [x] Usar imágenes de docker publicadas.
 
-###Tema 4. Virtualización ligera usando contenedores
+##Tema 4. Virtualización ligera usando contenedores
 
 [Ejercicios Tema 4](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema4.md)
 
@@ -219,7 +219,7 @@ una aplicación.
 - [x] Crear infraestructuras virtuales completas.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
 
-###Décima semana, (24 de Noviembre de 2016)
+##Décima semana, (24 de Noviembre de 2016)
 
 **Objetivos**
 
@@ -231,7 +231,7 @@ una aplicación.
 - [x] Probar imágenes de docker publicadas.
 - [x] Trabajar con varias imágenes de docker comentadas.
 
-###Undécima semana, (1 de Diciembre de 2016)
+##Undécima semana, (1 de Diciembre de 2016)
 
 **Objetivos**
 
