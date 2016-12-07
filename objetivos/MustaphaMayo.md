@@ -112,9 +112,7 @@ una aplicación.
 - [x]  Comprender el papel de las build tools o herramientas de
   automatización.
 
-#Quinta semana, comienza el 20 de octubre
-
-[Ejercicios Tema 3](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema3.md)
+#Quinta semana, (20 de octubre de 2016)
 
 **Objetivos de la semana**
 
@@ -135,4 +133,112 @@ una aplicación.
 - [X] Aprender buenas prácticas en entornos con integración y despliegue
    continuo: uso de ramas en el código, uso de *tags* para
    releases...
+
+#Sexta semana, (27 de octubre de 2016)
+
+**Objetivos**
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+**Otros objetivos**
+    
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+#Séptima semana, (3 de Noviembre de 2016)
+
+**Objetivos**
+
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+
+**Otros objetivos**
+
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+#Tema 3. Creando aplicaciones en la nube: Uso de PaaS
+
+[Ejercicios Tema 3](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema3.md)
+
+**Objetivos**
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+**Objetivos específicos**
+
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+#Octava semana, (10 de Noviembre de 2016)
+
+**Objetivos**
+
+- [ ] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado. 
+
+**Otros objetivos**
+    
+- [x] Instalar Docker y empezar a trabajar con él.
+
+#Novena semana, (17 de Noviembre de 2016)
+
+
+**Objetivos**
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+**Otros objetivos**
+    
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+
+#Tema 4. Virtualización ligera usando contenedores
+
+[Ejercicios Tema 4](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema4.md)
+
+**Objetivos**
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+- [ ] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [ ] Optimizar aplicaciones sobre plataformas virtuales.
+- [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+**Objetivos específicos**
+
+- [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [x] Crear infraestructuras virtuales completas.
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+#Décima semana, (24 de Noviembre de 2016)
+
+**Objetivos**
+
+- [x] Usar docker en una aplicación real. 
+
+**Otros objetivos**
+    
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [x] Trabajar con varias imágenes de docker comentadas.
+
+#Undécima semana, (1 de Diciembre de 2016)
+
+**Objetivos**
+
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+**Otros objetivos**
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 
