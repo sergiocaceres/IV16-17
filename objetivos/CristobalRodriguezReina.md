@@ -27,7 +27,7 @@
 
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-###Otros objetivos
+### Otros objetivos
 
 - [x] Al final de la clase, haber entregado el hito 0.
 
@@ -81,12 +81,12 @@
 
 ## Cuarta semana (del 13 al 20 de octubre de 2016))
 
-## Objetivos de la semana
+### Objetivos de la semana
 
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
-## Otros objetivos
+### Otros objetivos
 
 - [x] Entender los errores en la entrega del
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
@@ -96,9 +96,9 @@
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
-#### Quinta semana (del 20 al 27 de octubre de 2016)):
+## Quinta semana (del 20 al 27 de octubre de 2016)):
 
-## Objetivos de la semana
+### Objetivos de la semana
 
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
 - [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
@@ -108,21 +108,21 @@
 - [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 - [x] Resolver los problemas que surjan en los primeros despliegues.
 
-## Otros objetivos
+### Otros objetivos
 
 - [x] Darse de alta y probar diferentes servicios PaaS.
 - [ ] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
 - [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
 
-#### Sexta semana (del 27 al 3 de noviembre de 2016)):
+## Sexta semana (del 27 al 3 de noviembre de 2016)):
 
-##Objetivos de la semana
+### Objetivos de la semana
 
 - [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
-##Otros objetivos
+### Otros objetivos
 
 - [ ] Trabajar con los *toolbelts* de los diferentes PaaS.
 - [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
@@ -130,12 +130,59 @@
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
-#### Septima semana (del 3 al 10 de noviembre de 2016)):
+## Septima semana (del 3 al 10 de noviembre de 2016)):
 
-## Objetivos de la semana
+### Objetivos de la semana
 
-- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
 
-## Otros objetivos
+### Otros objetivos
 
-- [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+- [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+## Octava semana (del 10 al 17 de noviembre de 2016)):
+
+### Objetivos de la semana
+
+- [x] Realizar la visita a las instalaciones de Trevenque y entender los diferentes factores energéticos y de red en el diseño del mismo, así como el software usado.
+
+### Otros objetivos
+
+- [x] Instalar Docker y empezar a trabajar con él.
+
+## Novena semana (del 17 al  24 de noviembre de 2016)):
+
+### Objetivos de la semana
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros objetivos
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+
+## Décima semana (del 24 al 1 de noviembre de 2016))
+
+### Objetivos de la semana
+
+- [x] Usar docker en una aplicación real.
+
+### Otros objetivos
+
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [ ] Trabajar con varias imágenes de docker conectadas.
+
+
+## Undécima semana (del 1 al 8 de noviembre de 2016))
+
+### Objetivos de la semana
+
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
