@@ -78,4 +78,4 @@
 - [x] Aplicar el sistema de control de fuentes *git* para despliegue de aplicaciones en la nube.
 
 
-[Ejercicios Tema 3](https://github.com/maribhez/IV-Ejercicios/blob/master/ejercicios3.mkd"Ejercicios Tema 3")
+[Ejercicios Tema 3](https://github.com/maribhez/IV-Ejercicios/blob/master/ejercicios3.mkd "Ejercicios Tema 3")
