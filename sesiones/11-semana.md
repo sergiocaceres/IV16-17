@@ -12,7 +12,10 @@
 
 ##Material para la clase
 
-Tema dedicado a [uso de sistemas](http://jj.github.io/IV/documentos/temas/Uso_de_sistemas).
+Tema dedicado a
+[uso de sistemas](http://jj.github.io/IV/documentos/temas/Uso_de_sistemas). Se
+puede comenzar a hacer el
+[(posiblemente) último hito](http://jj.github.io/IV/documentos/proyecto/5.IaaS). 
 
 
 ##Siguiente semana
