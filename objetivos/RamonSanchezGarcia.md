@@ -195,14 +195,26 @@
 ####Otros objetivos
 
 - [x] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ####Objetivos temario de teoría
 
 - [x] 	Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 
-- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 
-- [ ] Documentar y mantener una plataforma virtual.
+- [x] Documentar y mantener una plataforma virtual.
 
-- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+## Sesión 12 (Semana del 8 al 15 de diciembre de 2016): 
+#### Objetivos de la semana
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [ ] Entender los conceptos de los servicios en la nube.
+- [ ] Entender el concepto de provisionamiento.
+#### Otros objetivos
+- [ ] Instalar clientes de servicios en la nube.
+- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+- [ ] Check-in en clase
