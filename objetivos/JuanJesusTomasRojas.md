@@ -141,3 +141,15 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [ ] Instalar hipervisores libres y trabajar con ellos.
 - [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 - [x] Check-in en clase
+
+### Duodécima semana, comienza el 15 de Diciembre
+#### Objetivos de la semana
+- [ ] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [ ] Entender los conceptos de los servicios en la nube.
+- [ ] Entender el concepto de provisionamiento.
+#### Otros objetivos
+- [ ] Instalar clientes de servicios en la nube.
+- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] Check-in en clase
