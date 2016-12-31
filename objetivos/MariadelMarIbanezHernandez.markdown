@@ -69,7 +69,7 @@
 
 - [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
-###Objetivos específicos.
+##Objetivos específicos.
 
 - [x] Comprender los concepts necesarios para trabajar con diferentes plataformas PaaS.
 
@@ -79,3 +79,31 @@
 
 
 [Ejercicios Tema 3](https://github.com/maribhez/IV-Ejercicios/blob/master/ejercicios3.mkd "Ejercicios Tema 3")
+
+#Quinta semana. 
+
+##Objetivos a cubrir en la sesión. 
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+- [x] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Optimizar aplicaciones sobre plataformas virtuales.
+- [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+
+##Objetivos específicos. 
+
+- [x]Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+
+- [x] Crear infraestructuras virtuales completas.
+
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+
+
+[Ejercicios Tema 4](https://github.com/maribhez/IV-Ejercicios/blob/master/Ejercicios4.markdown "Ejercicios Tema 4")
+
+
