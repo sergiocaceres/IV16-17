@@ -1,7 +1,7 @@
 # Objetivos Francisco José Fernández Muelas
 
 ### Semana a partir del 22 de septiembre de 2016
-  
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente.
 - [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
@@ -149,6 +149,38 @@
 - [x] Usar docker en una aplicación real. [Ejercicios 0 e hito 4 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
 
 ##### Otros objetivos
-- [ ] Publicar imágenes de docker.
+- [x] Publicar imágenes de docker.
 - [x] Probar imágenes de docker publicadas. [Ejercicios 7 y 10 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
-- [ ] Trabajar con varias imágenes de docker conectadas.
+- [x] Trabajar con varias imágenes de docker conectadas.
+
+
+### Semana a partir del 1 de diciembre.
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+##### Otros objetivos
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+### Semana a partir del 15 de diciembre.
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+##### Otros objetivos
+
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+### Semana a partir del 22 de diciembre.
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+##### Otros objetivos
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
