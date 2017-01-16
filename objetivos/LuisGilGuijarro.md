@@ -242,11 +242,53 @@ una aplicación.
 
 #Tema 5.
 
+[Enlace ejercicios del tema 5](https://github.com/LuisGi93/en-proceso/blob/master/IV/ejerciciosT5.md)
 ## Sesión 11 (1 de diciembre 2016)
 
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 ### Otros objetivos
 
 - [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+#Tema 6.
+[Enlace ejercicios tema 6](https://github.com/LuisGi93/en-proceso/blob/master/IV/ejerciciosT6.md)
+
+# Sesión 12, comienza el 15 de Diciembre
+
+- [ ]  Ver las diferencias entre hipervisores y buscar el más adecuado
+   para una tarea.
+
+- [x]  Trabajar con proveedores en la nube y apreciar los parecidos y
+   diferencias con los locales. 
+
+- [x]  Entender los conceptos de los servicios en la nube.
+
+- [x]  Entender el concepto de provisionamiento.
+
+##Otros objetivos
+
+- [x]  Instalar clientes de servicios en la nube.
+
+- [ ]  Entender temas de seguridad de la información relacionados con los
+   servicios en la nube.
+
+- [x]  Hacer pruebas de provisionamiento de servicios en la nube. 
+
+# Sesión 13, 22 de diciembre de 2016
+
+
+## Objetivos de la asignatura
+
+- [ ]   Entender cómo la definición de infraestructura virtual encaja en
+metodologías ágiles de desarrollo y la relación de las mismas con el
+concepto de DevOps teams.
+
+## Objetivos adicionales
+
+- [ ]  Participar en una experiencia real de desarrollo ágil, con personal
+con experiencia. Inscribirse en
+[Meetup](https://www.meetup.com/es-ES/Granada-Geek/events/235054689/)
+y preparar un equipo para participar en el hackatón de por la tarde.
+
