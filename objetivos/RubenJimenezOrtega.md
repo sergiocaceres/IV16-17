@@ -174,18 +174,50 @@ Aprender a usar integración continua en cualquier aplicación.
 
 ##Undécima semana, comienza el 1 de Diciembre
 
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 ##Otros objetivos
 
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ##Objetivos de teoría. TEMA 5.
 
 [Ejercicios del tema 5](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema5.md)
 
-- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
-- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
-- [ ] Documentar y mantener una plataforma virtual.
-- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+##Duodécima semana, comienza el 15 de Diciembre
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+##Otros objetivos
+
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+##Objetivos de teoría. TEMA 6.
+
+[Ejercicios del tema 6](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema6.md)
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+##Décimo tercera semana, 22 de diciembre de 2016
+
+- [ ] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+##Otros objetivos
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
