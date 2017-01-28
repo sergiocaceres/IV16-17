@@ -104,7 +104,7 @@
 
 ### Sesión 7 (3 de noviembre 2016)
 
-- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
 
     #####Otros objetivos:
 
@@ -187,9 +187,62 @@
 
 ### Sesión 11 (1 de diciembre 2016)
 
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
     #####Objetivos específicos
 
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+### Sesión 12 (15 de diciembre 2016)
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+    #####Objetivos específicos
+    
+- [x] Instalar clientes de servicios en la nube.
+- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+### Sesión 13 (22 de diciembre 2016)
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+Objetivos adicionales
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+### Sesión 14 (14 de enero 2017)
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+    #####Objetivos específicos
+
+- [x] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+### Sesión 15 (21 de enero 2017)
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
+
+### Tema 5. Virtualización completa: uso de máquinas virtuales
+#####[Ejercicios: Virtualización completa: uso de máquinas virtuales](https://github.com/josejapch/ejerciciosIV/blob/master/tema5/Tema5.md)
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+### Tema 6. Gestión de infraestructuras virtuales
+#####[Ejercicios: Gestión de infraestructuras virtuales](https://github.com/josejapch/ejerciciosIV/blob/master/tema6/tema6.md)
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+Objetivos específicos
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
