@@ -137,7 +137,7 @@
 
 - [ ] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 
-## Objetivos Sesión 8 (del 10 al 17 de noviembre de 2016)):
+## Objetivos Sesión 8 (del 10 al 17 de noviembre de 2016)
 
 ### Objetivos de la semana
 
@@ -147,7 +147,7 @@
 
 - [x] Instalar Docker y empezar a trabajar con él.
 
-##  Objetivos Sesión 9 (del 17 al  24 de noviembre de 2016)):
+##  Objetivos Sesión 9 (del 17 al  24 de noviembre de 2016)
 
 ### Objetivos de la semana
 
@@ -160,7 +160,7 @@
 - [x] Instalar docker y trabajar con él.
 - [x] Usar imágenes de docker publicadas.
 
-## Objetivos Sesión 10 (del 24 al 1 de noviembre de 2016))
+## Objetivos Sesión 10 (del 24 al 1 de noviembre de 2016)
 
 ### Objetivos de la semana
 
@@ -173,7 +173,7 @@
 - [x] Trabajar con varias imágenes de docker conectadas.
 
 
-## Objetivos Sesión 11 (del 1 al 8 de noviembre de 2016))
+## Objetivos Sesión 11 (del 1 al 8 de noviembre de 2016)
 
 ### Objetivos de la semana
 
@@ -183,3 +183,48 @@
 
 - [ ] Instalar hipervisores libres y trabajar con ellos.
 - [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+## Duodécima semana, comienza el 15 de Diciembre
+
+### Objetivos de la semana
+
+- [ ] Ver las diferencias entre hipervisores y buscar el más adecuado
+   para una tarea.
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y
+   diferencias con los locales.
+
+- [x] Entender los conceptos de los servicios en la nube.
+
+- [x] Entender el concepto de provisionamiento.
+
+### Otros objetivos
+
+- [x] Instalar clientes de servicios en la nube.
+
+- [x] Entender temas de seguridad de la información relacionados con los
+   servicios en la nube.
+
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Décimo tercera semana, 22 de diciembre de 2016
+
+### Objetivos de la asignatura
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en
+metodologías ágiles de desarrollo y la relación de las mismas con el
+concepto de DevOps teams.
+
+## Décimo cuarta semana, 14 de enero de 2017
+
+Primera semana del año.
+
+### Objetivos de la asignatura
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Décimoquinta semana, 21 de enero de 2017
+
+### Objetivos de la asignatura
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
