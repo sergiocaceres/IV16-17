@@ -223,3 +223,16 @@ una aplicación.
 - [] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
 
 
+###Décimo cuarta semana, 14 de enero de 2017
+
+**Objetivos de la semana**
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+**Otros objetivos**
+- [] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+
+###Décimoquinta semana, 21 de enero de 2017
+
+**Objetivos de la semana**
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
