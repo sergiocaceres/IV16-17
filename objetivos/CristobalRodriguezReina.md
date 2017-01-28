@@ -173,16 +173,81 @@
 
 - [x] Publicar imágenes de docker.
 - [x] Probar imágenes de docker publicadas.
-- [ ] Trabajar con varias imágenes de docker conectadas.
+- [x] Trabajar con varias imágenes de docker conectadas.
 
 
 ## Undécima semana (del 1 al 8 de noviembre de 2016))
 
 ### Objetivos de la semana
 
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 ### Otros objetivos
 
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+##Tema 5. Virtualización completa: uso de máquinas virtuales
+
+[Ejercicios Tema 5](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema5.md)
+
+**Objetivos**
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+##Duodécima semana, (15 de Diciembre de 2016)
+
+**Objetivos**
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+**Otros objetivos**
+
+- [ ] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+##Tema 6. Gestión de infraestructuras virtuales
+
+[Ejercicios Tema 6](https://github.com/Mustapha90/IV-Ejercicios/blob/master/Ejercicios/Tema6.md)
+
+**Objetivos de la asignatura**
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+**Objetivos específicos**
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+##Décimo tercera semana, (22 de diciembre de 2016)
+
+**Objetivos de la asignatura**
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+**Objetivos adicionales**
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+- [x] Participape en el Hackaton hardware, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+##Décimo cuarta semana, (14 de enero de 2017)
+
+**Objetivos de la asignatura**
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+
+##Décimoquinta semana, (21 de enero de 2017)
+
+**Objetivos de la asignatura**
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
