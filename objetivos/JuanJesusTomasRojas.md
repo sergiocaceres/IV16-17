@@ -67,8 +67,8 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 
 #### Otros objetivos
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
-- [ ] Comprender los mecanismos de despliegue automático.
+- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift. [Ejercicios tema 3](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema3.md)
+- [x] Comprender los mecanismos de despliegue automático. [Documentación del tema 6 y lectura en internet](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema6.md)
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [x] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
@@ -86,7 +86,7 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [x] Darse de alta y probar diferentes servicios PaaS. [Ejercicio 1 y 7 - Tema 3](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema3.md)
 - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad. [Ejercicio 7 - Tema 3](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema3.md)
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases... (Durante toda la asignatura)
 - [x] Check-in en clase
 
 ### Sexta semana, comienza el 27 de octubre
@@ -99,12 +99,12 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 - [x] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura. [Ejercicio 5 - Tema 4](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema4.md#ejercicio-5)
 - [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 - [ ] Check-in en clase
 
 ### Séptima semana, comienza el 3 de Noviembre
 #### Objetivos de la semana
-- [ ] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS.
+- [x] Entender las diferencias entre los diferentes PaaS y lo que los diferencia de otros servicios como IaaS. [Documentación del tema 6 y lectura en internet](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema6.md)
 #### Otros objetivos
 - [x] Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
 - [x] Check-in en clase
@@ -136,20 +136,32 @@ Entender la metodología docente, de evaluación y de interacción de la asignat
 
 ### Undécima semana, comienza el 1 de Diciembre
 #### Objetivos de la semana
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay. [Ejercicio 2 - Tema 5](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema5.md)
 ####Otros objetivos
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Instalar hipervisores libres y trabajar con ellos. [Ejercicio 1 - Tema 5](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema5.md)
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres. [Ejercicios tema 5](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema5.md)
 - [x] Check-in en clase
 
 ### Duodécima semana, comienza el 15 de Diciembre
 #### Objetivos de la semana
-- [ ] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
-- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
-- [ ] Entender los conceptos de los servicios en la nube.
-- [ ] Entender el concepto de provisionamiento.
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea. [Ejercicios tema 5](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema5.md)
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. [Ejercicios tema 6 e hito 6](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema6.md)
+- [x] Entender los conceptos de los servicios en la nube. [Tema 6](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema6.md)
+- [x] Entender el concepto de provisionamiento. [Tema 6](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema6.md)
 #### Otros objetivos
-- [ ] Instalar clientes de servicios en la nube.
+- [x] Instalar clientes de servicios en la nube. [Hito 5](https://github.com/juanjetomas/ProyectoIV/blob/documentacion/Hito5.md)
 - [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube. [Ejercicios tema 6 e hito 6](https://github.com/juanjetomas/EjerciciosIV/blob/master/Tema6.md)
 - [x] Check-in en clase
+
+### Décimo tercera semana, 22 de diciembre de 2016
+#### Objetivos de la asignatura
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams. [Tema 6](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones)
+
+### Décimo cuarta semana, 14 de enero de 2017
+#### Objetivos de la asignatura
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube. [Hito 5](https://github.com/juanjetomas/ProyectoIV/blob/documentacion/Hito5.md)
+
+### Décimoquinta semana, 21 de enero de 2017
+#### Objetivos de la asignatura
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura (Consulta sobre la separación de funciones entre Vagrant, Ansible y Fabric)

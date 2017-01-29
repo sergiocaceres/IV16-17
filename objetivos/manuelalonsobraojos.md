@@ -169,4 +169,70 @@ una aplicación.
 - [x] Usar imágenes de docker publicadas.
 
 
+#Décima semana, comienza el 24 de Noviembre
 
+**Objetivos de la semana**
+
+- [x] Usar docker en una aplicación real.
+
+**Otros objetivos**
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [] Trabajar con varias imágenes de docker comectadas.
+
+
+###Undécima semana, comienza el 1 de Diciembre
+
+[Ejercicios tema 5](https://github.com/manuelalonsobraojos/IV-Ejercicios/blob/master/Ejercicios-tema5/EjerciciosTema5.md)
+
+**Objetivos de la semana**
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+**Otros objetivos**
+
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+###Duodécima semana, comienza el 15 de Diciembre
+
+[Ejercicios tema 6](https://github.com/manuelalonsobraojos/IV-Ejercicios/blob/master/Ejercicios-tema6/EjerciciosTema6.md)
+
+**Objetivos de la semana**
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+
+**Otros objetivos**
+
+- [x] Instalar clientes de servicios en la nube.
+- [] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+###Décimo tercera semana, 22 de diciembre de 2016
+
+**Objetivos de la semana**
+
+- [] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+**Otros objetivos**
+
+- [] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+
+###Décimo cuarta semana, 14 de enero de 2017
+
+**Objetivos de la semana**
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+**Otros objetivos**
+- [] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+
+###Décimoquinta semana, 21 de enero de 2017
+
+**Objetivos de la semana**
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
